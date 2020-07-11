@@ -23,6 +23,7 @@
 - Package managers: npm & yarn
 - Build Tools
   - Task Runners (npm script)
+  - Module Bundlers (webpack)
   - Linters and Formatters (Prettier and ESLint)
 - Web Frameworks
   - React
@@ -33,6 +34,7 @@
   - Bootstrap
 - State Management
   - React
+    - MobX
     - Redux
 - Testing
   - Jest
@@ -51,6 +53,7 @@
   - Python
     - Flask
   - NodeJS
+    - NestJS + TypeORM/Prisma
     - GraphQL + Apollo + Prisma
 - Relational Database
   - PostgreSQL
