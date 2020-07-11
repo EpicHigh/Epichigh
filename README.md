@@ -11,7 +11,7 @@
 - 💬 Ask me about anything except my salary.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/prasit-tongpradit/).
 
-## Technology Skills
+## Technology Skills 💻
 
 ### 🔥 Proficient in:
 
