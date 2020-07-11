@@ -15,7 +15,7 @@
 
 ### 🔥 Proficient in:
 
-#### Frontend
+#### Front-end
 
 - HTML
 - CSS
