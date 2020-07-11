@@ -1,4 +1,5 @@
-# Hi there 👋
+# Prasit Tongpradit
+## Hi there 👋
 
 Good to see you, I am an experienced Fullstack Engineer with a keen eye for design to help the growth of the Omise Labs team. My job is implementing web pages with React and services with Ruby on Rails (Ruby), Phoenix (Elixir), Flask (Python), and GraphQL (NestJS + Apollo + Prisma). My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. I am responsible for the execution of UI/UX, contribute all phases of Ruby, Python and Elixir, optimization, and maintenance of pages and services to ensure maximum efficiency, design and implement API endpoints among other duties. 
 
@@ -14,7 +15,7 @@ Good to see you, I am an experienced Fullstack Engineer with a keen eye for desi
 
 ### 🔥 Proficient in:
 
-**Frontend**
+#### Frontend
 
 - HTML
 - CSS
@@ -40,7 +41,7 @@ Good to see you, I am an experienced Fullstack Engineer with a keen eye for desi
   - TypeScript
 - GraphQL: Apollo
 
-**Back-end**
+#### Back-end
 
 - Programming Languages and Frameworks
   - Ruby
@@ -78,7 +79,6 @@ Good to see you, I am an experienced Fullstack Engineer with a keen eye for desi
 - Web Server
   - Nginx
   
-  
 ### 👌 Familiar with:
 
 - Git
@@ -96,67 +96,6 @@ Good to see you, I am an experienced Fullstack Engineer with a keen eye for desi
   - Microsoft Office
 - Design and Development Principles
   - Test Driven Development
-
-### 👍 Experienced with:
-
-**Frontend**
-
-- Web Secutiry Knowledge
-  - HTTPS
-  - Content Security Policy
-  - CORS
-- CSS Preprocessors
-  - Sass
-- Web Frameworks
-  - Angular + rxjs
-- Build Tools
-  - Module Bundlers: Webpack
-- Modern CSS
-  - CSS Modules
-- CSS Frameworks
-  - Foundation
-  - Tailwind CSS
-- State Management
-  - Angular
-    - ngrx
-- Testing
-  - Robot Framework
-  - Cypress
-- Server Side Rendering
-  - React: Next.js
-  - Angular: Angular Universal
-- Static Site Generators
-  - GatsbyJS
-- Mobile Application
-  - React Native
-  
-** Back-end **
-- Relational Database
-  - MariaDB
-  - MySQL
-  - MS SQL
-- Non-Relational Database
-  - Firebase
-- Caching
-  - Client Side
-
-**DevOps**
-
-- Scripting Languages
-  - Bash
-  - Python
-  - TypeScript
-- Amazon Web Services
-  - Application Load Balancer
-  - Autoscaling
-  - EC2
-  - ECS
-  - S3
-  - IAM
-- Infrastructure-as-code
-  - Docker
-  - Terraform
-  - Vagrant
 
 ### 🤿 Other interests:
 
