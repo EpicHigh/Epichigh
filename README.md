@@ -41,7 +41,7 @@
   - TypeScript
 - GraphQL: Apollo
 - Mobile Applications
-  - Flatter
+  - Flutter
 
 #### Back-end
 
