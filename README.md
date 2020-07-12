@@ -27,15 +27,13 @@
   - Linters and Formatters (Prettier and ESLint)
 - Web Frameworks
   - React
+    - Redux
+    - Mobx
 - Modern CSS
   - styled-components
 - CSS Frameworks
   - Material UI
   - Bootstrap
-- State Management
-  - React
-    - MobX
-    - Redux
 - Testing
   - Jest
   - react-testing-library
