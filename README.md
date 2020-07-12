@@ -40,6 +40,8 @@
 - Typecheckers
   - TypeScript
 - GraphQL: Apollo
+- Mobile Applications
+  - Flatter
 
 #### Back-end
 
