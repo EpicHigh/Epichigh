@@ -1,7 +1,7 @@
 # Prasit Tongpradit
 ## Hi there 👋
 
-**Good to see you**, I am an experienced Fullstack Engineer with a keen eye for design to help the growth of the Omise Labs team. My job is implementing web pages with React and services with Ruby on Rails (Ruby), Phoenix (Elixir), Flask (Python), and GraphQL (NestJS + Apollo + Prisma). My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. I am responsible for the execution of UI/UX,  all phases of Ruby, Python and Elixir contribution, optimization, and maintenance of pages and services to ensure maximum efficiency, design and implement API endpoints among other duties. 
+**Good to see you**, I am an experienced Fullstack Engineer with a keen eye for design to help the growth of the Omise Labs team. My job is implementing web pages with React, mobile application with Flutter  and services with Ruby on Rails (Ruby), Phoenix (Elixir), and GraphQL (NestJS + Apollo + Prisma). My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. I am responsible for the execution of UI/UX, all phases of Ruby and Elixir contribution, optimization, and maintenance of pages and services to ensure maximum efficiency, design and implement API endpoints among other duties.
 
 - 🔭 I’m currently working on Omise Labs.
 - 🌱 I’m currently learning to be Full Stack Developer.
