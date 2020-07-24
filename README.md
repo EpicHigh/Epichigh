@@ -1,15 +1,34 @@
 # Prasit Tongpradit
 ## Hi there 👋
 
-**Good to see you**, I am an experienced Fullstack Engineer with a keen eye for design to help the growth of the Omise Labs team. My job is implementing web pages with React, mobile application with Flutter  and services with Ruby on Rails (Ruby), Phoenix (Elixir), and GraphQL (NestJS + Apollo + Prisma). My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. I am responsible for the execution of UI/UX, all phases of Ruby and Elixir contribution, optimization, and maintenance of pages and services to ensure maximum efficiency, design and implement API endpoints among other duties.
+**Good to see you**, I am an experienced Fullstack Engineer with a keen eye for design to help the growth of the Omise Labs team. My job is implementing web pages using React, Android application using Kotlin and services using Ruby on Rails (Ruby), Phoenix (Elixir), and GraphQL (NestJS + Apollo + Prisma). My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. I am responsible for the execution of UI/UX, all phases of Ruby and Elixir contribution, optimization, and maintenance of pages and services to ensure maximum efficiency, design and implement API endpoints among other duties.
 
 - 🔭 I’m currently working on Omise Labs.
 - 🌱 I’m currently learning to be Full Stack Developer.
-- ✍🏻 I'm currently writing [React](https://github.com/facebook/react), [Flutter](https://github.com/flutter/flutter), [Rails](https://github.com/rails/rails), [Phoenix](https://github.com/phoenixframework/phoenix), and [Apollo](https://github.com/apollographql/apollo-client).
+- ✍🏻 I'm currently writing [React](https://github.com/facebook/react), [Kotlin](https://github.com/JetBrains/kotlin), [Rails](https://github.com/rails/rails), [Phoenix](https://github.com/phoenixframework/phoenix), and [Apollo](https://github.com/apollographql/apollo-client).
 - 👯 I’m looking to collaborate on [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 🤔 I’m looking for help with [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 💬 Ask me about anything except my salary.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/prasit-tongpradit/).
+
+
+#### 👨‍💻 My Personal Developer:
+
+<div style="display: flex;">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_team_player.svg" width="72" alt="Team Player">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_young_professional.svg" width="72" alt="Young Professional">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_employee.svg" width="72" alt="Employee">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_big_company.svg" width="72" alt="Big Company">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_class_developer.svg" width="72" alt="Class Developer">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_front-ender.svg" width="72" alt="Front-ender">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_polyglot.svg" width="72" alt="Polyglot">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_dark_side.svg" width="72" alt="Dark Side">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_jb_fan.svg" width="72" alt="JetBrains Fan">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_audiophile.svg" width="72" alt="Audiophile">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_bibliophile.svg" width="72" alt="Bibliophile">
+  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_gamer.svg" width="72" alt="Gamer">
+</div>
+
 
 ## Technology Skills 💻
 
@@ -41,7 +60,7 @@
   - TypeScript
 - GraphQL: Apollo
 - Mobile Applications
-  - Flutter
+  - Android: Kotlin
 
 #### Back-end
 
@@ -99,19 +118,6 @@
   - Microsoft Office
 - Design and Development Principles
   - Test Driven Development
-
-### 🤿 Other interests:
-
-- Metaprogramming
-- Software Architecture
-- Web Design
-- Design Patterns
-- Clean Code
-- Think low level, write high level
-- AWS Certifications
-- Kubernetes
-- Linux
-
 
 <!--
 **EpicHigh/Epichigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
