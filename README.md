@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Omise Labs.
 - 🌱 I’m currently learning to be Full Stack Developer.
-- ✍🏻 I'm currently writing [React](https://github.com/facebook/react), [Golang](https://github.com/golang/go), [Phoenix] (https://github.com/phoenixframework/phoenix), and [Apollo](https://github.com/apollographql/apollo-client).
+- ✍🏻 I'm currently writing [React](https://github.com/facebook/react), [Golang](https://github.com/golang/go), [Phoenix](https://github.com/phoenixframework/phoenix), and [Apollo](https://github.com/apollographql/apollo-client).
 - 👯 I’m looking to collaborate on [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 🤔 I’m looking for help with [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 💬 Ask me about anything except my salary.
