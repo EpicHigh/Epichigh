@@ -1,7 +1,7 @@
 # Prasit Tongpradit
 ## Hi there 👋
 
-**Good to see you**, I am an experienced Full Stack Engineer with a keen eye for design to help the growth of the Omise Labs team. My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. My job is implementing web pages by using React and services by using Phoenix (Elixir), and Golang. I know the multiple back-end languages and frameworks such as Flask (Python), Rails (Ruby), and GraphQL (Apollo). There are some side projects about my skillset showcase checkout on my GitHub. 
+**Good to see you**, I am an experienced Full Stack Engineer with a keen eye for design to help the growth of the Omise Labs team. My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. My job is implementing web pages by using React and services by using Phoenix (Elixir), and Golang. I know the multiple back-end languages and frameworks such as Flask (Python) and GraphQL (Apollo). There are some side projects about my skillset showcase checkout on my GitHub.
 
 
 - 🔭 I’m currently working on Omise Labs.
