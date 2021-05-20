@@ -1,15 +1,14 @@
 # Prasit Tongpradit
 ## Hi there 👋
 
-**Good to see you**, I am an experienced Full Stack Engineer with a keen eye for design to help the growth of the Omise Labs team. My team will base in Thailand and Japan, building Omise Labs products, which will be used by corporate clients around the world. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, and platforms. My job is implementing web pages by using React and services by using Phoenix (Elixir), and Golang. I know the multiple back-end languages and frameworks such as Flask (Python) and GraphQL (Apollo). There are some side projects about my skillset showcase checkout on my GitHub.
+**Good to see you**, Good to see you. I am an experienced Front-end engineer with a keen eye for design to help the OPN team grow. It's the part of Omise. My team will base in Thailand and Japan, building digital transformation products, which will be used by corporate clients worldwide. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, developer portals, and platforms. My job is to implement web pages by using React and Vue.js and services by using Golang. I know the multiple back-end languages and frameworks such as Django (Python) Gin-Gonic (Golang) and NodeJS. My skillset mostly is based on client-side.
 
 
-- 🔭 I’m currently working on Omise Labs.
+- 🔭 I’m currently working on Omise.
 - 🌱 I’m currently learning to be Full Stack Developer.
-- ✍🏻 I'm currently writing [React](https://github.com/facebook/react), [Golang](https://github.com/golang/go), [Phoenix](https://github.com/phoenixframework/phoenix), and [Apollo](https://github.com/apollographql/apollo-client).
+- ✍🏻 I'm currently writing [React](https://github.com/facebook/react) and [Golang](https://github.com/golang/go)
 - 👯 I’m looking to collaborate on [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 🤔 I’m looking for help with [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
-- 💬 Ask me about anything except my salary.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/prasit-tongpradit/).
 
 
@@ -33,83 +32,60 @@
 
 ## Technology Skills 💻
 
-### 🔥 Proficient in:
+### General
 
-#### Front-end
-
-- HTML
-- CSS
-- JavaScript
-- Package managers: npm & yarn
-- Build Tools
-  - Task Runners (npm script)
-  - Module Bundlers (webpack)
-  - Linters and Formatters (Prettier and ESLint)
-- Web Frameworks
-  - React
-    - Redux
-    - Mobx
-- Modern CSS
-  - styled-components
-- CSS Frameworks
-  - Material UI
-  - Bootstrap
-- Testing
-  - Jest
-  - react-testing-library
-- Typecheckers
-  - TypeScript
-- GraphQL: Apollo
-
-#### Back-end
-
-- Programming Languages and Frameworks
-  - Elixir
-    - Phoenix
-  - Python
-    - Flask
-  - Golang
-    - Gin
-  - NodeJS
-    - GraphQL + Apollo + Prisma
-- Relational Database
-  - PostgreSQL
-- APIs
-  - REST
-  - JSON APIs
-  - Authentication
-    - OAuth
-    - Basic
-    - Token
-    - JWT
-- Testing
-  - Integration
-  - Unit
-  - Functional
-- CI/CD
-  - Gitlab CI
-  - Github Actions
-- Containerization
-  - Docker
-- GraphQL: Apollo
-  
-### 👌 Familiar with:
-
-- Git
-- Basic Terminal Usage
+- Git -Version control
+- Terminal Commands Usage
+- Basic Shell Scripts
 - SSH
-- HTTP/HTTPS and APIs
 - Working environments
   - Agile
   - Waterfall
-- Business Tools
-  - JIRA
-  - Confluence
-  - Slack
-  - Microsoft Teams
-  - Microsoft Office
-- Design and Development Principles
-  - Test Driven Development
+- Business Tools: JIRA and Confluence
+- Chat Ops: Slack and Microsoft Teams
+- Microsoft Office
+
+### Front-end
+
+- HTML
+- CSS
+- JavaScript/Typescript
+- CSS preprocessors: Sass, Less and PostCSS
+- Package managers: npm, yarn & pnpm
+- Development and build tools
+  - Nrwl/Nx
+  - Snowpack
+  - Vite
+  - Create react app/Create next app
+  - Linters and Formatters
+    -  Prettier
+    -  ESLint
+- Frontend libraries: React and Vue.js
+- Frontend frameworks: Angular + Rxjs and Next.js
+- State managements: Redux/Redux Toolkit & XState
+- Modern CSS: CSS-in-JS and CSS Modules
+- UI frameworks: Material UI, Ant Design & IBM Carbon
+- Testing: Jest, react-testing-library & Cypress
+
+### Back-end
+
+- Programming Languages and Frameworks
+  - Python: Djando
+  - Golang: Gin
+  - Node.js: Koa/Knex
+- API
+  - JSON APIs
+  - Basic Authentication: OAuth, Basic, Token & JWT
+- Basic SQLs
+
+### DevOps
+
+- Containers: Basic Docker
+- CI/CD Tools: GitHub Actions & Gitlab CI
+- Cloud Providers
+  - Basic AWS: S3, EC2, and ECS
+  - GCP: Firebase
+
 
 <!--
 **EpicHigh/Epichigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
