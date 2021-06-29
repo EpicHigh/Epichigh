@@ -1,7 +1,7 @@
 # Prasit Tongpradit
 ## Hi there 👋
 
-**Good to see you**, Good to see you. I am an experienced Front-end engineer with a keen eye for design to help the OPN team grow. It's the part of Omise. My team will base in Thailand and Japan, building digital transformation products, which will be used by corporate clients worldwide. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, developer portals, and platforms. My job is to implement web pages by using React and Vue.js and services by using Golang. I know the multiple back-end languages frameworks such as Django (Python) Gin-Gonic (Golang) and NodeJS. My skillset mostly is based on client-side.
+**Good to see you**, I am an experienced Front-end engineer with a keen eye for design to help the OPN team grow. It's the part of Omise. My team will base in Thailand and Japan, building digital transformation products, which will be used by corporate clients worldwide. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, developer portals, and platforms. My job is to implement web pages by using React and Vue.js and services by using Golang. I know the multiple back-end languages frameworks such as Django (Python) Gin-Gonic (Golang) and NodeJS. My skillset mostly is based on client-side.
 
 
 - 🔭 I’m currently working on Omise.
