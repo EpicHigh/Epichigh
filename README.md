@@ -1,103 +1,167 @@
-# Prasit Tongpradit
-## Hi there 👋
+### Hi there, I'm Prasit Tongpradit, also you can call me Tum.
 
-**Good to see you**, I am an experienced Front-end engineer with a keen eye for design to help the OPN team grow. It's the part of Omise. My team will base in Thailand and Japan, building digital transformation products, which will be used by corporate clients worldwide. These enterprise services and solutions will vary from project to project but will primarily revolve around eWallets, payment solutions, developer portals, and platforms. My job is to implement web pages by using React and Vue.js and services by using Golang. I know the multiple back-end languages frameworks such as Django (Python) Gin-Gonic (Golang) and NodeJS. My skillset mostly is based on client-side.
+## I'm a Software Engineer at Zipmex
 
+- 🔭 I’m currently working on the next generation enterprise grade blockchain applications for the financial industry.
+- 🌱 I’m currently learning new programming languages such as Elixir and Scala, and looking forward to taking more about AWS certificates.
+- 👯 I’m looking to collaborate [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
+- 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write more blog posts about IT and Non-IT stuff.
+- ⚡ Fun fact: I love to play games, play a surfskate and listen to K-POP.
 
-- 🔭 I’m currently working on Omise.
-- 🌱 I’m currently learning to be Full Stack Developer.
-- ✍🏻 I'm currently writing [React](https://github.com/facebook/react) and [Golang](https://github.com/golang/go)
-- 👯 I’m looking to collaborate on [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
-- 🤔 I’m looking for help with [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/prasit-tongpradit/).
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
+[<img align="left" alt="Prasit Tongpradit | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Prasit Tongpradit | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
+[<img align="left" alt="Prasit Tongpradit | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 
-#### 👨‍💻 My Personal Developer:
+<br />
 
-<div style="display: flex;">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_team_player.svg" width="72" alt="Team Player">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_young_professional.svg" width="72" alt="Young Professional">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_employee.svg" width="72" alt="Employee">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_big_company.svg" width="72" alt="Big Company">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_class_developer.svg" width="72" alt="Class Developer">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_front-ender.svg" width="72" alt="Front-ender">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_polyglot.svg" width="72" alt="Polyglot">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_dark_side.svg" width="72" alt="Dark Side">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_jb_fan.svg" width="72" alt="JetBrains Fan">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_audiophile.svg" width="72" alt="Audiophile">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_bibliophile.svg" width="72" alt="Bibliophile">
-  <img src="https://resources.jetbrains.com/storage/infographics/images/dv-2020/badge_gamer.svg" width="72" alt="Gamer">
-</div>
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
 
+---
 
-## Technology Skills 💻
+### Languages, Frameworks and Tools:
 
-### General
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
 
-- Git -Version control
-- Terminal Commands Usage
-- Basic Shell Scripts
-- SSH
-- Working environments
-  - Agile
-  - Waterfall
-- Business Tools: JIRA & Confluence
-- Chat Ops: Slack & Microsoft Teams
-- Microsoft Office
+[<code>
+<img alt="webstorm" width="26px" src="https://img.icons8.com/color/240/000000/webstorm.png" />
+</code>](https://www.jetbrains.com/webstorm/)
 
-### Front-end
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-- HTML
-- CSS
-- JavaScript/Typescript
-- CSS preprocessors: Sass, Less & PostCSS
-- Package managers: npm, yarn & pnpm
-- Development and build tools
-  - Nrwl/Nx
-  - Snowpack
-  - Vite
-  - Create react app/Create next app
-  - Linters and Formatters
-    -  Prettier
-    -  ESLint
-- Frontend libraries: React & Vue.js
-- Frontend frameworks: Angular + Rxjs & Next.js
-- State managements: Redux/Redux Toolkit & XState
-- Modern CSS: CSS-in-JS & CSS Modules
-- UI frameworks: Material UI, Ant Design & IBM Carbon
-- Testing: Jest, react-testing-library & Cypress
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Back-end
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- Programming Languages and Frameworks
-  - Python: Djando
-  - Golang: Gin
-  - Node.js: Koa/Knex
-- API
-  - JSON APIs
-  - Basic Authentication: OAuth, Basic, Token & JWT
-- Basic SQLs
+[<code>
+<img alt="git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
 
-### DevOps
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/color/240/000000/github.png">
+</code>](https://github.com/)
 
-- Containers: Basic Docker
-- CI/CD Tools: GitHub Actions & Gitlab CI
-- Cloud Providers
-  - Basic AWS: S3, EC2, & ECS
-  - GCP: Firebase
+[<code>
+<img alt="gitlab" width="26px" src="https://img.icons8.com/color/240/000000/gitlab.png">
+</code>](https://gitlab.com/)
 
+[<code>
+<img alt="npm" width="26px" src="https://img.icons8.com/color/240/000000/npm.png">
+</code>](https://www.npmjs.com/)
 
-<!--
-**EpicHigh/Epichigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<code>
+<img alt="yarn" width="26px" src="https://img.icons8.com/color/240/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png" />
+</code>](https://yarnpkg.com/)
 
-Here are some ideas to get you started:
+[<code>
+<img alt="pnpm" width="26px" src="https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg" />
+</code>](https://pnpm.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
+</code>](https://sass-lang.com/)
+
+[<code>
+<img alt="post css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" />
+</code>](https://postcss.org/)
+
+[<code>
+<img alt="less" width="26px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" />
+</code>](https://lesscss.org/)
+
+[<code>
+<img alt="prettier" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" />
+</code>](https://prettier.io/)
+
+[<code>
+<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</code>](https://eslint.org/)
+
+[<code>
+<img alt="react" width="26px" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs.png">
+</code>](https://reactjs.org/)
+
+[<code>
+<img alt="vuejs" width="26px" src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png">
+</code>](https://vuejs.org/)
+
+[<code>
+<img alt="angular" width="26px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo.png">
+</code>](https://angular.io/)
+
+[<code>
+<img alt="emotion" width="26px" src="https://image.emojipng.com/826/11481826.jpg">
+</code>](https://emotion.sh/)
+
+[<code>
+<img alt="css modules" width="26px" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png">
+</code>](https://github.com/css-modules/css-modules)
+
+[comment]: <> (---)
+
+[comment]: <> (## 📝 Latest Blog Posts)
+
+[comment]: <> (These are my latest posts on [Medium]&#40;https://medium.com/@sabesan96&#41; and [Dev.to]&#40;https://dev.to/thesabesan&#41;:)
+
+[comment]: <> (### Medium)
+
+[comment]: <> (![Sabesan96's Medium Post]&#40;https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight&#41;)
+
+[comment]: <> (### Dev Community)
+
+[comment]: <> (<!-- DEVTO:START -->)
+
+[comment]: <> (- [Five methods for JavaScript to detect mobile browsers]&#40;https://dev.to/thesabesan/five-methods-for-javascript-to-detect-mobile-browsers-1jhc&#41;)
+
+[comment]: <> (- [How to Handle ES6 modules in Node.Js]&#40;https://dev.to/thesabesan/how-to-handle-es6-modules-in-node-js-hdn&#41;)
+
+[comment]: <> (- [Embed Dev.to as a blog on your React Website]&#40;https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c&#41;)
+
+[comment]: <> (- [Beautify Your GitHub Profile README]&#40;https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf&#41;)
+
+[comment]: <> (<!-- DEVTO:END -->)
+
+[comment]: <> (---)
+
+[comment]: <> (### Stack Overflow)
+
+[comment]: <> ([![SabesanSathananthan StackOverflow]&#40;https://github-readme-stackoverflow-six.vercel.app/?userID=8629258&#41;]&#40;https://stackoverflow.com/users/8629258/sabesan&#41;)
+
+[comment]: <> (---)
+
+[comment]: <> (_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_)
+
+[comment]: <> (<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">)
+
+[comment]: <> (<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>)
+
+[comment]: <> (<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical">)
+
+[comment]: <> (  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />)
+
+[comment]: <> (</a>)
+
+[comment]: <> (---)
+
+[comment]: <> (<p align=center>                           )
+
+[comment]: <> (  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     )
+
+[comment]: <> (</p>)
+
+[comment]: <> (---)
+
+[linkedin]: https://www.linkedin.com/in/prasit-tongpradit
+[medium]: https://medium.com/@prasittongpradit
+[telegram]: https://telegram.me/Mosquiche
