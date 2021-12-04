@@ -125,55 +125,29 @@
 </code>](https://www.docker.com/)
 
 
-[comment]: <> (---)
+---
 
-[comment]: <> (## 📝 Latest Blog Posts)
+## 📝 Latest Blog Posts
 
-[comment]: <> (These are my latest posts on [Medium]&#40;https://medium.com/@sabesan96&#41; and [Dev.to]&#40;https://dev.to/thesabesan&#41;:)
+These are my latest posts on [Medium](https://medium.com/@prasittongpradit)
 
-[comment]: <> (### Medium)
+---
 
-[comment]: <> (![Sabesan96's Medium Post]&#40;https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight&#41;)
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-[comment]: <> (### Dev Community)
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 
-[comment]: <> (<!-- DEVTO:START -->)
+<img align="center" alt="EpicHigh's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=epichigh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-[comment]: <> (- [Five methods for JavaScript to detect mobile browsers]&#40;https://dev.to/thesabesan/five-methods-for-javascript-to-detect-mobile-browsers-1jhc&#41;)
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical" />
+</a>
 
-[comment]: <> (- [How to Handle ES6 modules in Node.Js]&#40;https://dev.to/thesabesan/how-to-handle-es6-modules-in-node-js-hdn&#41;)
-
-[comment]: <> (- [Embed Dev.to as a blog on your React Website]&#40;https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c&#41;)
-
-[comment]: <> (- [Beautify Your GitHub Profile README]&#40;https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf&#41;)
-
-[comment]: <> (<!-- DEVTO:END -->)
-
-[comment]: <> (---)
-
-[comment]: <> (### Stack Overflow)
-
-[comment]: <> ([![SabesanSathananthan StackOverflow]&#40;https://github-readme-stackoverflow-six.vercel.app/?userID=8629258&#41;]&#40;https://stackoverflow.com/users/8629258/sabesan&#41;)
-
-[comment]: <> (---)
-
-[comment]: <> (_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_)
-
-[comment]: <> (<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">)
-
-[comment]: <> (<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>)
-
-[comment]: <> (<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical">)
-
-[comment]: <> (  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />)
-
-[comment]: <> (</a>)
-
-[comment]: <> (---)
+---
 
 [comment]: <> (<p align=center>                           )
 
-[comment]: <> (  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     )
+[comment]: <> (  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=epichigh.epichigh" alt="Visitors">                     )
 
 [comment]: <> (</p>)
 
