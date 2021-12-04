@@ -109,9 +109,6 @@
 <img alt="jest testing library" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3628860-3030000.png">
 </code>](https://jestjs.io/)
 [<code>
-<img alt="jest library" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3628860-3030000.png">
-</code>](https://jestjs.io/)
-[<code>
 <img alt="testing library" width="32px" src="https://testing-library.com/img/octopus-128x128.png">
 </code>](https://testing-library.com/)
 
