@@ -145,14 +145,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[comment]: <> (<p align=center>                           )
-
-[comment]: <> (  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=epichigh.epichigh" alt="Visitors">                     )
-
-[comment]: <> (</p>)
-
-[comment]: <> (---)
-
 [linkedin]: https://www.linkedin.com/in/prasit-tongpradit
 [medium]: https://medium.com/@prasittongpradit
 [telegram]: https://telegram.me/Mosquiche
