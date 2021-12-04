@@ -70,6 +70,12 @@
 <img alt="less" width="32px" src="https://www.shareicon.net/data/256x256/2016/07/10/119877_css_512x512.png" />
 </code>](https://lesscss.org/)
 [<code>
+<img alt="nrwl nx" width="32px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--DmojfdLx--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2995/95998d2a-00f2-4e8e-9ebc-0b06de97c37f.png" />
+</code>](https://nx.dev/)
+[<code>
+<img alt="superplate" width="32px" src="https://pankod.github.io/superplate/img/superplate-logo.svg" />
+</code>](https://pankod.github.io/superplate/)
+[<code>
 <img alt="prettier" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" />
 </code>](https://prettier.io/)
 [<code>
@@ -111,6 +117,12 @@
 [<code>
 <img alt="testing library" width="32px" src="https://testing-library.com/img/octopus-128x128.png">
 </code>](https://testing-library.com/)
+[<code>
+<img alt="github actions" width="32px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
+</code>](https://github.com/actions)
+[<code>
+<img alt="docker" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png">
+</code>](https://www.docker.com/)
 
 
 [comment]: <> (---)
