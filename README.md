@@ -1,9 +1,9 @@
-### Hi there, I'm Prasit Tongpradit, also you can call me Tum.
+### Hello, my name is Prasit Tongpradit, but you may call me Tum if you like.
 
-## I'm a Software Engineer at Zipmex
+## I'm a Software Engineer, Blogger, Translator, and Open Source Contributor.
 
 - 🔭 I’m currently working on the next generation enterprise grade blockchain applications for the financial industry.
-- 🌱 I’m currently learning new programming languages such as Elixir and Scala, and looking forward to taking more about AWS certificates.
+- 🌱 I’m currently learning new programming languages such as Elixir and Scala, and looking forward to taking AWS certificates.
 - 👯 I’m looking to collaborate [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write more blog posts about IT and Non-IT stuff.
 - ⚡ Fun fact: I love to play games, play a surfskate and listen to K-POP.
@@ -37,11 +37,11 @@
 <img alt="css3" width="32px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="tailwindcss" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
-</code>](https://tailwindcss.com/)
-[<code>
 <img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+</code>](https://www.typescriptlang.org/)
 [<code>
 <img alt="git" width="32px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -90,6 +90,19 @@
 [<code>
 <img alt="css modules" width="32px" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png">
 </code>](https://github.com/css-modules/css-modules)
+[<code>
+<img alt="tailwindcss" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+</code>](https://tailwindcss.com/)
+[<code>
+<img alt="material ui" width="32px" src="https://mui.com/static/logo.png">
+</code>](https://mui.com/)
+[<code>
+<img alt="ant design" width="32px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+</code>](https://ant.design/)
+[<code>
+<img alt="ibm carbon" width="32px" src="https://responsivewebdesign.com/dist/logos/podcast/png/ibm-carbon.png">
+</code>](https://www.carbondesignsystem.com/)
+
 
 [comment]: <> (---)
 
