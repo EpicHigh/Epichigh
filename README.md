@@ -85,6 +85,9 @@
 <img alt="angular" width="32px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo.png">
 </code>](https://angular.io/)
 [<code>
+<img alt="nextjs" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+</code>](https://nextjs.org/)
+[<code>
 <img alt="emotion" width="32px" src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png">
 </code>](https://emotion.sh/)
 [<code>
@@ -102,6 +105,15 @@
 [<code>
 <img alt="ibm carbon" width="32px" src="https://responsivewebdesign.com/dist/logos/podcast/png/ibm-carbon.png">
 </code>](https://www.carbondesignsystem.com/)
+[<code>
+<img alt="jest testing library" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3628860-3030000.png">
+</code>](https://jestjs.io/)
+[<code>
+<img alt="jest library" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3628860-3030000.png">
+</code>](https://jestjs.io/)
+[<code>
+<img alt="testing library" width="32px" src="https://testing-library.com/img/octopus-128x128.png">
+</code>](https://testing-library.com/)
 
 
 [comment]: <> (---)
