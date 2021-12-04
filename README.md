@@ -25,67 +25,70 @@
 ### Languages, Frameworks and Tools:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="webstorm" width="26px" src="https://img.icons8.com/color/240/000000/webstorm.png" />
+<img alt="webstorm" width="32px" src="https://img.icons8.com/color/240/000000/webstorm.png" />
 </code>](https://www.jetbrains.com/webstorm/)
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="html5" width="32px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="css3" width="32px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="tailwindcss" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+</code>](https://tailwindcss.com/)
+[<code>
+<img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="git" width="32px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/color/240/000000/github.png">
+<img alt="github" width="32px" src="https://img.icons8.com/color/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="gitlab" width="26px" src="https://img.icons8.com/color/240/000000/gitlab.png">
+<img alt="gitlab" width="32px" src="https://img.icons8.com/color/240/000000/gitlab.png">
 </code>](https://gitlab.com/)
 [<code>
-<img alt="npm" width="26px" src="https://img.icons8.com/color/240/000000/npm.png">
+<img alt="npm" width="32px" src="https://img.icons8.com/color/240/000000/npm.png">
 </code>](https://www.npmjs.com/)
 [<code>
-<img alt="yarn" width="26px" src="https://w1.pngwing.com/pngs/798/531/png-transparent-react-logo-npm-javascript-package-manager-nodejs-github-installation-yarn.png" />
+<img alt="yarn" width="32px" src="https://w1.pngwing.com/pngs/798/531/png-transparent-react-logo-npm-javascript-package-manager-nodejs-github-installation-yarn.png" />
 </code>](https://yarnpkg.com/)
 [<code>
-<img alt="pnpm" width="26px" src="https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg" />
+<img alt="pnpm" width="32px" src="https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg" />
 </code>](https://pnpm.io/)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
+<img alt="sass" width="32px" src="https://img.icons8.com/color/240/000000/sass.png" />
 </code>](https://sass-lang.com/)
 [<code>
-<img alt="post css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" />
+<img alt="post css" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" />
 </code>](https://postcss.org/)
 [<code>
-<img alt="less" width="26px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" />
+<img alt="less" width="32px" src="https://www.shareicon.net/data/256x256/2016/07/10/119877_css_512x512.png" />
 </code>](https://lesscss.org/)
 [<code>
-<img alt="prettier" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" />
+<img alt="prettier" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" />
 </code>](https://prettier.io/)
 [<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+<img alt="eslint" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
 </code>](https://eslint.org/)
 [<code>
-<img alt="react" width="26px" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs.png">
+<img alt="react" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
 </code>](https://reactjs.org/)
 [<code>
-<img alt="vuejs" width="26px" src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png">
+<img alt="vuejs" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png">
 </code>](https://vuejs.org/)
 [<code>
-<img alt="angular" width="26px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo.png">
+<img alt="angular" width="32px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo.png">
 </code>](https://angular.io/)
 [<code>
-<img alt="emotion" width="26px" src="https://image.emojipng.com/826/11481826.jpg">
+<img alt="emotion" width="32px" src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png">
 </code>](https://emotion.sh/)
 [<code>
-<img alt="css modules" width="26px" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png">
+<img alt="css modules" width="32px" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png">
 </code>](https://github.com/css-modules/css-modules)
 
 [comment]: <> (---)
