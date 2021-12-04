@@ -40,7 +40,7 @@
 <img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/typescript.png" />
 </code>](https://www.typescriptlang.org/)
 [<code>
 <img alt="git" width="32px" src="https://img.icons8.com/color/240/000000/git.png">
