@@ -127,13 +127,13 @@
 
 ---
 
-## 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 These are my latest posts on [Medium](https://medium.com/@prasittongpradit)
 
 ---
 
-## 📈 My Stats
+### 📈 My Stats
 
 _NOTE: Most used languages do not reflect my technical skills. It shows which languages I use on coding the most on GitHub._
 
