@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: contribute more to Open Source projects and write more blog posts about IT and Non-IT stuff.
 - ⚡ Fun fact: I love to play games, play a surfskate and listen to K-POP.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me:
 
 [<img align="left" alt="Prasit Tongpradit | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Prasit Tongpradit | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
@@ -22,7 +22,7 @@
 
 ---
 
-### Languages, Libraries, Frameworks and Tools:
+### 🧑‍💻 Languages, Libraries, Frameworks and Tools:
 
 [<code>
 <img alt="visual studio code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -133,14 +133,15 @@ These are my latest posts on [Medium](https://medium.com/@prasittongpradit)
 
 ---
 
+## 📈 My Stats
+
 _NOTE: Most used languages do not reflect my technical skills. It shows which languages I use on coding the most on GitHub._
 
+<img alt="EpicHigh's Github Trophy" src="https://github-profile-trophy.vercel.app/?username=epichigh&theme=discord" />
 
 <img alt="EpicHigh's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=epichigh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 
 <img alt="Most used languages" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical" />
-
-<img alt="EpicHigh's Github Trophy" src="https://github-profile-trophy.vercel.app/?username=epichigh&theme=discord" />
 
 ---
 
