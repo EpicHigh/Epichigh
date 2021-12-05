@@ -1,4 +1,4 @@
-### Hello, my name is Prasit Tongpradit.
+### Hi there,
 
 ## I'm a Software Engineer, Blogger, and Open Source Contributor.
 
