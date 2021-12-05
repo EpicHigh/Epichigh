@@ -16,8 +16,8 @@
 
 <br />
 
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
+<p align="center">
+    <em>Don't hesitate to get in touch!</em>
 </p>
 
 ---
@@ -135,11 +135,12 @@ These are my latest posts on [Medium](https://medium.com/@prasittongpradit)
 
 _NOTE: Most used languages do not reflect my technical skills. It shows which languages I use on coding the most on GitHub._
 
-<img align="center" alt="EpicHigh's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=epichigh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical" />
-</a>
+<img alt="EpicHigh's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=epichigh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+
+<img alt="Most used languages" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical" />
+
+<img alt="EpicHigh's Github Trophy" src="https://github-profile-trophy.vercel.app/?username=epichigh&theme=discord" />
 
 ---
 
