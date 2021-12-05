@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Blogger, Translator, and Open Source Contributor.
 
 - 🔭 I’m currently working on the next generation enterprise grade blockchain applications for the financial industry.
-- 🌱 I’m currently learning new programming languages such as Elixir and Scala, and looking forward to taking AWS certificates.
+- 🌱 I’m currently learning new programming languages such as Elixir, Ruby and Scala and preparing for AWS certificate exams.
 - 👯 I’m looking to collaborate [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
 - 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write more blog posts about IT and Non-IT stuff.
 - ⚡ Fun fact: I love to play games, play a surfskate and listen to K-POP.
