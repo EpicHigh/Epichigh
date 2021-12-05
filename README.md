@@ -22,7 +22,7 @@
 
 ---
 
-### Languages, Frameworks and Tools:
+### Languages, Libraries, Frameworks and Tools:
 
 [<code>
 <img alt="visual studio code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
