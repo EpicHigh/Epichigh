@@ -10,9 +10,9 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me:
 
-[<img alt="Prasit Tongpradit | LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
-[<img alt="Prasit Tongpradit | Medium" height="24px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
-[<img alt="Prasit Tongpradit | Telegram" height="24px" src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&style=for-the-badge&logoColor=white" />][telegram]
+[<img alt="Prasit Tongpradit | LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
+[<img alt="Prasit Tongpradit | Medium" height="32px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
+[<img alt="Prasit Tongpradit | Telegram" height="32px" src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&style=for-the-badge&logoColor=white" />][telegram]
 
 <br />
 
@@ -30,7 +30,7 @@
 [<img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.typescriptlang.org/)
+[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Git" height="24px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
 [<img alt="GitHub" height="24px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/)
 [<img alt="GitLab" height="24px" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/)
