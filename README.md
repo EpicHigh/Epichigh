@@ -10,9 +10,9 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me:
 
-[<img alt="Prasit Tongpradit | LinkedIn" height="16px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
-[<img alt="Prasit Tongpradit | Medium" height="16px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
-[<img alt="Prasit Tongpradit | Telegram" height="16px" src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&style=for-the-badge&logoColor=white" />][telegram]
+[<img alt="Prasit Tongpradit | LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
+[<img alt="Prasit Tongpradit | Medium" height="24px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
+[<img alt="Prasit Tongpradit | Telegram" height="24px" src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&style=for-the-badge&logoColor=white" />][telegram]
 
 <br />
 
