@@ -31,7 +31,6 @@
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Elixir Programming Language" height="24px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
-[<img alt="Elixir" height="24px" src="https://img.shields.io/badge/Elixir-3178C6?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
 [<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Git" height="24px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
 [<img alt="GitHub" height="24px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/)
