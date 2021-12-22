@@ -22,13 +22,31 @@
 
 ---
 
+### Programming languages I know:
+
+Used to write and forgot both read and write:
+[<img alt="Ruby" height="24px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
+[<img alt="Java" height="24px" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/en/)
+
+Used to write but can read:
+[<img alt="Golang" height="24px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://go.dev/)
+[<img alt="Python" height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
+
+Can write and read:
+[<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
+[<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
+[<img alt="Elixir" height="24px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
+
+---
+
 ### 🧑‍💻 Languages, Libraries, Frameworks and Tools:
 
 [<img alt="Visual Studio Code" height="24px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="WebStorm" height="24px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />](https://www.jetbrains.com/webstorm/)
 [<img alt="HTML5" height="24px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Elixir Programming Language" height="24px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
 [<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
