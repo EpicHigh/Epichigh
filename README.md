@@ -52,6 +52,7 @@
 [<img alt="Phoenix Framework" height="24px" src="https://img.shields.io/badge/Phoenix%20Framework-ff6f61?style=for-the-badge&logoColor=white" />](https://www.phoenixframework.org/)
 [<img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=for-the-badge&logoColor=white" />](https://graphql.org/)
 [<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
+[<img alt="Prisma" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white" />](https://www.prisma.io/)
 [<img alt="Emotion" height="24px" src="https://img.shields.io/badge/Emotion-D36ACC?&style=for-the-badge&logoColor=white">](https://emotion.sh/)
 [<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
 [<img alt="Tailwind CSS" height="24px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white">](https://tailwindcss.com/)
