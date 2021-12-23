@@ -34,11 +34,14 @@
 [<img alt="Golang" height="24px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://go.dev/)
 [<img alt="Python" height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
-#### Can write and read:
+#### Can basically write and read:
+
+[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
+
+#### Can fluently write and read:
 
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Elixir" height="24px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
 
 ---
