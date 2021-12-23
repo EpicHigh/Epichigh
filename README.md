@@ -24,7 +24,7 @@
 
 ### Programming languages:
 
-#### Used to write and forgot both read and write:
+#### Used to write and have forgotten:
 
 [<img alt="Ruby" height="24px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
 [<img alt="Java" height="24px" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/en/)
@@ -66,9 +66,7 @@
 [<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />](https://prettier.io/)
 [<img alt="ESLint" height="24px" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">](https://eslint.org/)
 [<img alt="React" height="24px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">](https://reactjs.org/)
-[<img alt="ReactiveX" height="24px" src="https://img.shields.io/badge/ReactiveX-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white">](https://reactivex.io/)
 [<img alt="Redux" height="24px" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge&logoColor=white">](https://redux.js.org/)
-[<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">](https://angular.io/)
 [<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
 [<img alt="Phoenix Framework" height="24px" src="https://img.shields.io/badge/Phoenix%20Framework-ff6f61?style=for-the-badge&logoColor=white" />](https://www.phoenixframework.org/)
 [<img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=for-the-badge&logoColor=white" />](https://graphql.org/)
@@ -81,7 +79,6 @@
 [<img alt="Testing Library" height="24px" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=Testing%20Library&style=for-the-badge&logoColor=white">](https://testing-library.com/)
 [<img alt="GitHub Actions" height="24px" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&style=for-the-badge&logoColor=white">](https://github.com/actions)
 [<img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">](https://www.docker.com/)
-
 
 ---
 
