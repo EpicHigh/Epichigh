@@ -22,7 +22,7 @@
 
 ---
 
-### Programming languages I know:
+### Programming languages:
 
 Used to write and forgot both read and write:
 [<img alt="Ruby" height="24px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
