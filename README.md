@@ -1,18 +1,13 @@
-### Hi there,
+# Hi there,
 
-## I'm a Software Engineer, Blogger, and Open Source Contributor.
+Hello! I'm a software developer with a background in front-end web development, focusing on React.js, Next.js, and TypeScript. I have experience working on cryptocurrency exchange, eWallets, payment platforms, and digital transformation projects for both startups and established companies. My passion lies in creating pixel-perfect, scalable, and optimized web applications, while implementing automation through CI/CD tools to enhance productivity. In my spare time, I enjoy contributing open sources, mostly documentation, tutorials, or guidelines, to help people learn and grow personally and professionally. And also exploring new tools in the market to improve the deployment lifecycle to be more productive.
 
-- 🔭 I’m currently working on the next generation enterprise grade blockchain applications for the financial industry.
-- 🌱 I’m currently learning new programming languages such as Elixir, Ruby and Scala and preparing for AWS certificate exams.
 - 👯 I’m looking to collaborate [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
-- 🥅 2022 Goals: contribute more to Open Source projects and write more blog posts about IT and Non-IT stuff.
-- ⚡ Fun fact: I love to play games, play a surfskate and listen to K-POP.
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me:
 
 [<img alt="Prasit Tongpradit | LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
 [<img alt="Prasit Tongpradit | Medium" height="32px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
-[<img alt="Prasit Tongpradit | Telegram" height="32px" src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&style=for-the-badge&logoColor=white" />][telegram]
 
 <br />
 
@@ -31,7 +26,6 @@
 [<img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="Elixir" height="24px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />](https://elixir-lang.org/)
 [<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Git" height="24px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
 [<img alt="GitHub" height="24px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/)
@@ -56,7 +50,6 @@
 [<img alt="MobX" height="24px" src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&style=for-the-badge&logoColor=white">](https://mobx.js.org/README.html/)
 [<img alt="MobX State Tree" height="24px" src="https://img.shields.io/badge/MobX%20State%20Tree-FF7102?logo=mobx%20state%20tree&style=for-the-badge&logoColor=white">](https://mobx-state-tree.js.org/intro/welcome)
 [<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
-[<img alt="Phoenix Framework" height="24px" src="https://img.shields.io/badge/Phoenix%20Framework-ff6f61?style=for-the-badge&logoColor=white" />](https://www.phoenixframework.org/)
 [<img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=for-the-badge&logoColor=white" />](https://graphql.org/)
 [<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
 [<img alt="Prisma" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white" />](https://www.prisma.io/)
@@ -79,4 +72,3 @@ _NOTE: Most used languages do not reflect my technical skills. It shows which la
 
 [linkedin]: https://www.linkedin.com/in/prasit-tongpradit
 [medium]: https://medium.com/@prasittongpradit
-[telegram]: https://telegram.me/Mosquiche
