@@ -19,7 +19,7 @@ Hello! I'm a software developer with a background in front-end web development, 
 
 ### 🧑‍💻 Languages, Libraries, Frameworks and Tools:
 
-[<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular-0F0F11&style=for-the-badge&logoColor=white" />](https://angular.dev/)
+[<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white" />](https://angular.dev/)
 [<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
 [<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
 [<img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -37,8 +37,7 @@ Hello! I'm a software developer with a background in front-end web development, 
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&style=for-the-badge&logoColor=white">](https://jestjs.io/)
 [<img alt="Lerna" height="24px" src="https://img.shields.io/badge/Lerna-2F0268?style=for-the-badge&logo=lerna&logoColor=white" />](https://lerna.js.org/)
-[<img alt="Nest.js" height="24px" src="https://img.shields.io/badge/Nest.js-0F0F11?logo=nextdotjs##000000&style=for-the-badge&logoColor=white" />](https://angular.dev/)
-[<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-0F0F11?logo=nestjs-#E0234E&style=for-the-badge&logoColor=white" />](https://angular.dev/)
+[<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-0F0F11?logo=NestJS&style=for-the-badge&logoColor=white" />](https://nestjs.com/)
 [<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
 [<img alt="Nx" height="24px" src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />](https://nx.dev/)
 [<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />](https://prettier.io/)
