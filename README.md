@@ -37,7 +37,7 @@ Hello! I'm a software developer with a background in front-end web development, 
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&style=for-the-badge&logoColor=white">](https://jestjs.io/)
 [<img alt="Lerna" height="24px" src="https://img.shields.io/badge/Lerna-2F0268?style=for-the-badge&logo=lerna&logoColor=white" />](https://lerna.js.org/)
-[<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-0F0F11?logo=NestJS&style=for-the-badge&logoColor=white" />](https://nestjs.com/)
+[<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white" />](https://nestjs.com/)
 [<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
 [<img alt="Nx" height="24px" src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />](https://nx.dev/)
 [<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />](https://prettier.io/)
