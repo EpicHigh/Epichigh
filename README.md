@@ -21,8 +21,8 @@ Hello! I'm a software developer with a background in front-end web development, 
 
 [<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white" />](https://angular.dev/)
 [<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
-[<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
-[<img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="CSS" height="24px" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?logo=cssmodules&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
 [<img alt="DataGrip" height="24px" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />](https://www.jetbrains.com/datagrip/)
 [<img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">](https://www.docker.com/)
 [<img alt="ESLint" height="24px" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">](https://eslint.org/)
