@@ -20,9 +20,10 @@ Hello! I'm a software developer with a background in front-end web development, 
 ### 🧑‍💻 Languages, Libraries, Frameworks and Tools:
 
 [<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white" />](https://angular.dev/)
+[<img alt="Ant Design" height="24px" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />](https://ant.design/)
 [<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
-[<img alt="CSS" height="24px" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?logo=cssmodules&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
+[<img alt="CSS" height="24px" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="DataGrip" height="24px" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />](https://www.jetbrains.com/datagrip/)
 [<img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">](https://www.docker.com/)
 [<img alt="ESLint" height="24px" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">](https://eslint.org/)
@@ -37,15 +38,18 @@ Hello! I'm a software developer with a background in front-end web development, 
 [<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&style=for-the-badge&logoColor=white">](https://jestjs.io/)
 [<img alt="Lerna" height="24px" src="https://img.shields.io/badge/Lerna-2F0268?style=for-the-badge&logo=lerna&logoColor=white" />](https://lerna.js.org/)
+[<img alt="MUI" height="24px" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />](https://mui.com/material-ui/)
+[<img alt="NPM" height="24px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
 [<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white" />](https://nestjs.com/)
 [<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
+[<img alt="NodeJS" height="24px" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://nodejs.org/en)
 [<img alt="Nx" height="24px" src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />](https://nx.dev/)
+[<img alt="PNPM" height="24px" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />](https://pnpm.io/)
 [<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />](https://prettier.io/)
 [<img alt="Prisma" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white" />](https://www.prisma.io/)
-[<img alt="React Router" height="24px" src="https://img.shields.io/badge/React%20Router-FF4154?style=for-the-badge&logo=react%20router&logoColor=white">](https://reactrouter.com/)
 [<img alt="React" height="24px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">](https://reactjs.org/)
-[<img alt="Redux" height="24px" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge&logoColor=white">](https://redux.js.org/)
 [<img alt="Sass" height="24px" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](https://sass-lang.com/)
+[<img alt="Shadcn/UI" height="24px" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />](https://ui.shadcn.com/)
 [<img alt="Tailwind CSS" height="24px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white">](https://tailwindcss.com/)
 [<img alt="Testing Library" height="24px" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=Testing%20Library&style=for-the-badge&logoColor=white">](https://testing-library.com/)
 [<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
@@ -53,8 +57,7 @@ Hello! I'm a software developer with a background in front-end web development, 
 [<img alt="Vite" height="24px" height="32px" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />](https://vitejs.dev/)
 [<img alt="WebStorm" height="24px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />](https://www.jetbrains.com/webstorm/)
 [<img alt="Yarn" height="24px" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />](https://yarnpkg.com/)
-[<img alt="npm" height="24px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
-[<img alt="pnpm" height="24px" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />](https://pnpm.io/)
+
 
 ---
 
