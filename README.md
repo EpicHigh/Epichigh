@@ -46,7 +46,7 @@ Hello! I'm a software developer with a background in front-end web development, 
 [<img alt="Nx" height="24px" src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />](https://nx.dev/)
 [<img alt="PNPM" height="24px" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />](https://pnpm.io/)
 [<img alt="Pino" height="24px" src="https://img.shields.io/badge/pino-687634?style=for-the-badge&logo=pino&logoColor=white" />](https://github.com/pinojs/pino)
-[<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />](https://prettier.io/)
+[<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black" />](https://prettier.io/)
 [<img alt="Prisma" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white" />](https://www.prisma.io/)
 [<img alt="React" height="24px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://reactjs.org/)
 [<img alt="ReactiveX" height="24px" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />](https://reactivex.io/)
