@@ -1,78 +1,48 @@
-# Hi there,
+<div align="center">
 
-Hello! I'm a software developer with a background in front-end web development, focusing on React.js, Next.js, and TypeScript. I have experience working on cryptocurrency exchange, eWallets, payment platforms, and digital transformation projects for both startups and established companies. My passion lies in creating pixel-perfect, scalable, and optimized web applications, while implementing automation through CI/CD tools to enhance productivity. In my spare time, I enjoy contributing open sources, mostly documentation, tutorials, or guidelines, to help people learn and grow personally and professionally. And also exploring new tools in the market to improve the deployment lifecycle to be more productive.
+# Prasit Tongpradit
 
-- 👯 I’m looking to collaborate [th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info).
+**Software engineer building practical products for complex domains.**
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasit-tongpradit/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@prasittongpradit)
 
-[<img alt="Prasit Tongpradit | LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white" />][linkedin]
-[<img alt="Prasit Tongpradit | Medium" height="32px" src="https://img.shields.io/badge/Medium-000000?logo=Medium&style=for-the-badge&logoColor=white" />][medium]
+</div>
 
-<br />
+## About me
 
-<p align="center">
-    <em>Don't hesitate to get in touch!</em>
-</p>
+I build software where product thinking, engineering, and domain expertise meet. At PwC Thailand, I currently focus on tax technology: compliant workflows, document automation, knowledge systems, and analytics.
 
----
+My work spans TypeScript, Go, and Python—from React and Next.js interfaces and service APIs to OCR pipelines, search, data integration, and Azure delivery.
 
-### 🧑‍💻 Languages, Libraries, Frameworks and Tools:
+- Based in Bangkok, Thailand
+- Interested in simple architecture, strong contracts, automated checks, and accessible interfaces
+- Maintainer of the [Thai edition of The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/th.javascript.info)
 
-[<img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white" />](https://angular.dev/)
-[<img alt="Ant Design" height="24px" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />](https://ant.design/)
-[<img alt="Apollo GraphQL" height="24px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&style=for-the-badge&logoColor=white" />](https://www.apollographql.com/)
-[<img alt="CSS Modules" height="24px" src="https://img.shields.io/badge/CSS%20Modules-000000?logo=cssmodules&style=for-the-badge&logoColor=white">](https://github.com/css-modules/css-modules)
-[<img alt="CSS" height="24px" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="DataGrip" height="24px" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />](https://www.jetbrains.com/datagrip/)
-[<img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">](https://www.docker.com/)
-[<img alt="ESLint" height="24px" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">](https://eslint.org/)
-[<img alt="Emotion" height="24px" src="https://img.shields.io/badge/Emotion-D36ACC?&style=for-the-badge&logoColor=white">](https://emotion.sh/)
-[<img alt="GNU Bash" height="24px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
-[<img alt="Git" height="24px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
-[<img alt="GitHub Actions" height="24px" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&style=for-the-badge&logoColor=white">](https://github.com/actions)
-[<img alt="GitHub" height="24px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/)
-[<img alt="GitLab" height="24px" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/)
-[<img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=for-the-badge&logoColor=white" />](https://graphql.org/)
-[<img alt="HTML5" height="24px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-F4BF45?style=for-the-badge&logo=javascript&logoColor=black" />](https://www.javascript.com/)
-[<img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&style=for-the-badge&logoColor=white">](https://jestjs.io/)
-[<img alt="Lerna" height="24px" src="https://img.shields.io/badge/Lerna-2F0268?style=for-the-badge&logo=lerna&logoColor=white" />](https://lerna.js.org/)
-[<img alt="MUI" height="24px" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />](https://mui.com/material-ui/)
-[<img alt="NPM" height="24px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
-[<img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white" />](https://nestjs.com/)
-[<img alt="Next.js" height="24px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">](https://nextjs.org/)
-[<img alt="NodeJS" height="24px" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://nodejs.org/en)
-[<img alt="Nx" height="24px" src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />](https://nx.dev/)
-[<img alt="PNPM" height="24px" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />](https://pnpm.io/)
-[<img alt="Pino" height="24px" src="https://img.shields.io/badge/pino-687634?style=for-the-badge&logo=pino&logoColor=white" />](https://github.com/pinojs/pino)
-[<img alt="Prettier" height="24px" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black" />](https://prettier.io/)
-[<img alt="Prisma" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white" />](https://www.prisma.io/)
-[<img alt="React" height="24px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://reactjs.org/)
-[<img alt="ReactiveX" height="24px" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />](https://reactivex.io/)
-[<img alt="Sass" height="24px" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](https://sass-lang.com/)
-[<img alt="Shadcn/UI" height="24px" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />](https://ui.shadcn.com/)
-[<img alt="Tailwind CSS" height="24px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white">](https://tailwindcss.com/)
-[<img alt="Testing Library" height="24px" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=Testing%20Library&style=for-the-badge&logoColor=white">](https://testing-library.com/)
-[<img alt="TypeORM" height="24px" src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />](https://typeorm.io/)
-[<img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="Visual Studio Code" height="24px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
-[<img alt="Vite" height="24px" height="32px" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />](https://vitejs.dev/)
-[<img alt="WebStorm" height="24px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />](https://www.jetbrains.com/webstorm/)
-[<img alt="Yarn" height="24px" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />](https://yarnpkg.com/)
+## Current focus
 
+- Digital tax products across e-Tax, VAT, corporate income tax, and risk analytics
+- AI-assisted knowledge experiences grounded in source documents
+- Developer tooling that gives coding agents dependable language-server feedback
+- Growing from individual contributor to engineering leadership
 
----
+## Selected work
 
-### 📈 My Stats
+| Project | What it does |
+| --- | --- |
+| [LSP for Codex](https://github.com/EpicHigh/lsp-for-codex) | Connects Codex to language servers for diagnostics and code symbols through a local MCP bridge |
+| [Thai JavaScript Tutorial](https://github.com/javascript-tutorial/th.javascript.info) | Makes the Modern JavaScript Tutorial accessible to Thai-speaking developers |
+| [Jira XML to Markdown](https://github.com/EpicHigh/jira-xml-to-markdown) | Turns Jira XML exports into clean, readable Markdown |
+| [From IC to Manager](https://github.com/EpicHigh/from-ic-to-manager) | A structured learning path from software engineering to engineering management |
 
-<img alt="EpicHigh's Github Trophy" src="https://github-profile-trophy.vercel.app/?username=epichigh&theme=radical" />
-<img alt="EpicHigh's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=epichigh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-<img alt="Most used languages" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=epichigh&layout=compact&theme=radical" />
+## Toolkit
 
-_NOTE: Most used languages do not reflect my technical skills. It shows which languages I use on coding the most on GitHub._
+**Languages:** `TypeScript` · `JavaScript` · `Go` · `Python` · `SQL`
 
----
+**Frontend and runtime:** `React` · `Next.js` · `React Router` · `Svelte` · `Node.js`
 
-[linkedin]: https://www.linkedin.com/in/prasit-tongpradit
-[medium]: https://medium.com/@prasittongpradit
+**Platform and data:** `Azure` · `Docker` · `Nx` · `MongoDB` · `SQL Server` · `GitHub Actions`
+
+## Let's connect
+
+I enjoy collaborating on developer tooling, practical automation, and resources that help Thai developers learn. Reach me on [LinkedIn](https://www.linkedin.com/in/prasit-tongpradit/).
