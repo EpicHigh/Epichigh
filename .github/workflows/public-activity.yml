@@ -9,6 +9,7 @@ on:
       - '.github/scripts/update-public-activity.py'
       - '.github/workflows/public-activity.yml'
       - 'data/public-profile.json'
+      - 'data/programming-languages.json'
 
 concurrency:
   group: public-profile-activity

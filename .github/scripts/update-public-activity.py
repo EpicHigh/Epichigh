@@ -21,6 +21,10 @@ from textwrap import wrap
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[2]
+PROGRAMMING_CATALOG = json.loads(
+    (ROOT / "data/programming-languages.json").read_text(encoding="utf-8")
+)
+PROGRAMMING_LANGUAGES = frozenset(PROGRAMMING_CATALOG["languages"])
 BANGKOK = ZoneInfo("Asia/Bangkok")
 STATES = ("merged", "open", "closed")
 PALETTES = {
@@ -201,6 +205,8 @@ def collect(config, fetch=get_json):
             raise ValueError(
                 f"Cannot verify {repository} as a public repository owned by someone else"
             )
+        if metadata["fork"]:
+            continue
         projects.append(
             {
                 "repository": repository,
@@ -249,6 +255,12 @@ def languages(projects):
         if total:
             totals[project["language"] or "Not reported"] += total
     return sorted(totals.items(), key=lambda entry: (-entry[1], entry[0]))
+
+
+def programming_projects(projects):
+    return [
+        project for project in projects if project["language"] in PROGRAMMING_LANGUAGES
+    ]
 
 
 def owners(projects):
@@ -331,12 +343,12 @@ def render_activity(snapshot, theme, mobile):
         height,
         theme,
         "Public contribution activity",
-        "All discoverable public pull requests authored in repositories owned by others. Merged, open and closed PRs are counted separately.",
+        "Public pull requests authored in non-fork repositories owned by others. Merged, open and closed PRs are counted separately.",
     )
     heading(
         svg,
         "Public contributions",
-        "All public PRs · Outside my account",
+        "Public PRs · Fork repositories excluded",
         snapshot,
         mobile,
     )
@@ -378,7 +390,7 @@ def render_activity(snapshot, theme, mobile):
         svg.lines(
             inset,
             420,
-            "Every discovered repository is included, including public forks and archived work.",
+            "All discovered public repositories owned by others are included, except forks.",
             42,
             18,
             color="muted",
@@ -576,26 +588,27 @@ def render_network(snapshot, theme, mobile):
 
 
 def render_languages(snapshot, theme, mobile):
-    projects = snapshot["projects"]
+    projects = programming_projects(snapshot["projects"])
     values = languages(projects)
-    palette = language_palette(projects)
+    palette = language_palette(snapshot["projects"])
     total = sum(value for _, value in values)
+    all_merged = counts(snapshot["projects"])["merged"]
     rows_y = 450 if mobile else 150
-    height = max(rows_y + len(values) * 70 + 115, 590 if mobile else 480)
+    height = max(rows_y + len(values) * 70 + 115, 590 if mobile else 520)
     svg = SVG(
         480 if mobile else 1000,
         height,
         theme,
-        "Languages across merged PRs",
-        "One count per merged PR, grouped by the destination repository's current primary language. This does not identify changed-file languages or measure proficiency. Repositories without a language are included as Not reported.",
+        "Programming languages across merged PRs",
+        f"{total} eligible merged PRs out of {all_merged}. Only repository primary languages classified as programming by GitHub Linguist are included. Percentages use eligible PRs; markup, data, prose, and unreported languages are excluded. This does not identify changed-file languages or measure proficiency.",
     )
     inset = 24 if mobile else 36
-    svg.text(inset, 42, "Languages across merged PRs", 25 if mobile else 27, weight=700)
-    svg.text(inset, 75, "Weighted by each repo's primary language", 18, "muted")
+    svg.text(inset, 42, "Programming languages", 27, weight=700)
+    svg.text(inset, 75, "By repo's primary language · PR-weighted", 18, "muted")
     svg.text(
         inset,
         104,
-        f"{total} merged PRs · {sum(counts([p])['merged'] > 0 for p in projects)} repositories",
+        f"{total} of {all_merged} merged PRs · {sum(counts([p])['merged'] > 0 for p in projects)} repositories",
         18,
         "muted",
     )
@@ -620,7 +633,7 @@ def render_languages(snapshot, theme, mobile):
     svg.text(
         cx,
         cy + 39,
-        values[0][0] if total else "Merged PRs",
+        values[0][0] if total else "Eligible PRs",
         21,
         "muted",
         anchor="middle",
@@ -644,7 +657,7 @@ def render_languages(snapshot, theme, mobile):
     svg.lines(
         inset,
         height - (100 if mobile else 70),
-        "Includes documentation and translation PRs. Repository language does not describe the files changed in a PR or language proficiency.",
+        "Only programming languages classified by GitHub Linguist. Based on repository language, not changed files or proficiency.",
         44 if mobile else 100,
         17 if mobile else 16,
         color="muted",
@@ -655,17 +668,19 @@ def render_languages(snapshot, theme, mobile):
 def render_record(snapshot):
     projects = snapshot["projects"]
     totals = counts(projects)
+    programming = languages(programming_projects(projects))
+    eligible = sum(value for _, value in programming)
     lines = [
         "# Public contribution record",
         "",
         f"As of **{snapshot['as_of']} (Bangkok, UTC+7)**. **{totals['merged']} merged · {totals['open']} open · {totals['closed']} closed without merging** across **{len(projects)} repositories**.",
         "",
-        f"All public pull requests authored by {snapshot['username']} that GitHub search can discover outside the {snapshot['username']} account are included. There is no project allowlist. Public forks, archived projects, documentation, translations, and older work are included. Personal repositories and private activity are excluded.",
+        f"All public pull requests authored by {snapshot['username']} that GitHub search can discover in non-fork repositories outside the {snapshot['username']} account are included. There is no project allowlist. Archived projects, documentation, translations, and older work are included. Fork repositories, personal repositories, and private activity are excluded. A PR sent from a fork to an original upstream repository still counts; the destination repository determines eligibility.",
         "",
         "## Repositories",
         "",
-        "| Repository | Primary language | Fork | Merged | Open | Closed, not merged |",
-        "| --- | --- | --- | ---: | ---: | ---: |",
+        "| Repository | Primary language | Merged | Open | Closed, not merged |",
+        "| --- | --- | ---: | ---: | ---: |",
     ]
     for project in projects:
         stats = counts([project])
@@ -673,17 +688,19 @@ def render_record(snapshot):
         url = f"https://github.com/{project['repository']}/pulls?{query}"
         language = (project["language"] or "Not reported").replace("|", "\\|")
         lines.append(
-            f"| [{project['repository']}]({url}) | {language} | {'Yes' if project['fork'] else 'No'} | {stats['merged']} | {stats['open']} | {stats['closed']} |"
+            f"| [{project['repository']}]({url}) | {language} | {stats['merged']} | {stats['open']} | {stats['closed']} |"
         )
     lines += [
         "",
-        "## Languages across merged PRs",
+        "## Programming languages across merged PRs",
+        "",
+        f"The donut uses **{eligible} of {totals['merged']} merged PRs**. The remaining {totals['merged'] - eligible} have a non-programming or unreported repository language and are excluded from its percentages.",
         "",
         "| Repository primary language | Merged PRs | Share |",
         "| --- | ---: | ---: |",
     ]
-    for language, count in languages(projects):
-        lines.append(f"| {language} | {count} | {count / totals['merged']:.1%} |")
+    for language, count in programming:
+        lines.append(f"| {language} | {count} | {count / eligible:.1%} |")
     lines += [
         "",
         "## Pull requests",
@@ -705,11 +722,11 @@ def render_record(snapshot):
         "",
         "## Method and freshness",
         "",
-        "The daily refresh searches GitHub's public REST API without authentication, follows every result page, and splits large searches by creation date. Each destination repository is checked for public visibility and ownership before inclusion. Deleted repositories and PRs no longer visible in public search cannot be recovered by this record.",
+        "The daily refresh searches GitHub's public REST API without authentication, follows every result page, and splits large searches by creation date. Each destination repository is checked for public visibility, ownership, and non-fork status before inclusion. Deleted repositories and PRs no longer visible in public search cannot be recovered by this record.",
         "",
         "The orbit chart groups merged PRs by repository owner, including both people and organizations. Each repository belongs to one owner. Bubble area is proportional to merged PR count within each node type; owner and repository bubbles use different scales. Colors follow repository primary language, with an owner's dominant language used for its bubble. All owners and repositories with merged PRs are shown; additional orbit panels are added as needed.",
         "",
-        "The language chart assigns one count per merged PR to the destination repository's current primary language. Missing languages remain in the denominator as Not reported. This includes documentation, translation, and maintenance PRs; it does not measure changed-file languages, lines of code, effort, impact, or proficiency. For example, contributions to the Thai JavaScript tutorial are classified as HTML because that is the repository's primary language.",
+        f"The donut assigns one count per merged PR to the destination repository's current primary language only when [GitHub Linguist]({PROGRAMMING_CATALOG['source']}) classifies it as programming. The [pinned language catalog](data/programming-languages.json) defines this classification. Markup (including HTML and CSS), data, prose, unreported languages, and languages absent from that catalog are excluded from the donut and its denominator. The overall totals and orbit chart still include these contributions. This does not measure changed-file languages, lines of code, effort, impact, or proficiency.",
         "",
         "Only authored pull requests are counted. Direct commits, issues, reviews, and discussions are not part of these PR charts. Open PRs have not been merged; closed PRs without a merge are separate. The timeline uses merge dates and shows the five most recent merges.",
         "",
@@ -803,13 +820,24 @@ def self_test():
 
     snapshot = collect({"username": "author"}, api)
     assert pages == [1, 2]
-    assert counts(snapshot["projects"]) == {"merged": 102, "open": 1, "closed": 1}
-    assert len(snapshot["projects"]) == 3
-    assert any(p["fork"] for p in snapshot["projects"])
-    assert languages(snapshot["projects"]) == [("Go", 100), ("Not reported", 2)]
+    assert counts(snapshot["projects"]) == {"merged": 101, "open": 1, "closed": 1}
+    assert len(snapshot["projects"]) == 2
+    assert not any(p["fork"] for p in snapshot["projects"])
+    assert languages(snapshot["projects"]) == [("Go", 100), ("Not reported", 1)]
+    assert languages(programming_projects(snapshot["projects"])) == [("Go", 100)]
+    assert {"Go", "JavaScript", "TypeScript", "Python", "Rust"} <= PROGRAMMING_LANGUAGES
+    non_programming = {
+        **snapshot,
+        "projects": [
+            {**snapshot["projects"][0], "language": language}
+            for language in ("HTML", "CSS", "JSON", "Markdown", None)
+        ],
+    }
+    assert programming_projects(non_programming["projects"]) == []
+    assert "100.0%" in render_record(snapshot)
+    assert "100 of 101 merged PRs" in render_languages(snapshot, "light", False)
     assert [counts(group)["merged"] for _, group in owners(snapshot["projects"])] == [
         101,
-        1,
     ]
     assert "Do not copy" not in json.dumps(snapshot) and "personal" not in json.dumps(
         snapshot
@@ -885,13 +913,14 @@ def self_test():
     assert len(set(partitioned)) == 2
     records.clear()
     empty = collect({"username": "author"}, api)
-    for data in (snapshot, empty):
+    for data in (snapshot, non_programming, empty):
+        render_record(data)
         for theme in PALETTES:
             for mobile in (True, False):
                 for renderer in (render_activity, render_network, render_languages):
                     ET.fromstring(renderer(data, theme, mobile))
     print(
-        "Self-check passed: discovery, public scope, own-repo exclusion, forks, pagination, date partitioning, chart totals, and empty charts."
+        "Self-check passed: discovery, public scope, own-repo and fork exclusions, programming-language denominator, pagination, date partitioning, and empty charts."
     )
 
 

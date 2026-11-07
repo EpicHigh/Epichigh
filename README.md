@@ -31,14 +31,14 @@ Prevented panics when spreadsheet formulas access invalid ranges. Five condition
 
 ## Open-source activity
 
-Public pull requests I authored across **all repositories owned by other people or organizations**, including public forks and archived projects. Merged, open, and closed PRs are counted separately.
+Public pull requests I authored in repositories owned by other people or organizations. **Fork repositories are excluded**; archived projects are included. Merged, open, and closed PRs are counted separately.
 
 <a href="PUBLIC_ACTIVITY.md">
   <picture>
     <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile/activity-mobile-dark.svg">
     <source media="(max-width: 640px)" srcset="assets/profile/activity-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/activity-dark.svg">
-    <img src="assets/profile/activity-light.svg" alt="All public pull requests outside my account: merged, open, and closed totals, repository count, and recent merges. Full counts and links are in the public contribution record." width="100%">
+    <img src="assets/profile/activity-light.svg" alt="Public pull requests in non-fork repositories outside my account: merged, open, and closed totals, repository count, and recent merges. Full counts and links are in the public contribution record." width="100%">
   </picture>
 </a>
 
@@ -56,11 +56,11 @@ Public pull requests I authored across **all repositories owned by other people 
     <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile/activity-languages-mobile-dark.svg">
     <source media="(max-width: 640px)" srcset="assets/profile/activity-languages-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/activity-languages-dark.svg">
-    <img src="assets/profile/activity-languages-light.svg" alt="Languages across merged PRs: a donut chart weighted by each repository's primary language, including repositories without a reported language." width="100%">
+    <img src="assets/profile/activity-languages-light.svg" alt="Programming languages across merged PRs: percentages use only PRs in repositories whose primary language is classified as programming by GitHub Linguist. Markup, data, prose, and unreported languages are excluded." width="100%">
   </picture>
 </a>
 
-The network and language charts use **merged PRs**. Language shares follow each repository's primary language, including documentation and translation work; they do not measure language proficiency.
+Both charts use **merged PRs**. The donut includes only programming languages, as classified by GitHub Linguist, and calculates percentages within that subset. It follows each repository's primary language, not language proficiency.
 
 [View counts, dates, and every pull request →](PUBLIC_ACTIVITY.md) · Updated daily from public data.
 

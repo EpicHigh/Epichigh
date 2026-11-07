@@ -1,38 +1,29 @@
 # Public contribution record
 
-As of **2026-11-07 (Bangkok, UTC+7)**. **96 merged · 2 open · 11 closed without merging** across **16 repositories**.
+As of **2026-11-07 (Bangkok, UTC+7)**. **91 merged · 2 open · 7 closed without merging** across **7 repositories**.
 
-All public pull requests authored by EpicHigh that GitHub search can discover outside the EpicHigh account are included. There is no project allowlist. Public forks, archived projects, documentation, translations, and older work are included. Personal repositories and private activity are excluded.
+All public pull requests authored by EpicHigh that GitHub search can discover in non-fork repositories outside the EpicHigh account are included. There is no project allowlist. Archived projects, documentation, translations, and older work are included. Fork repositories, personal repositories, and private activity are excluded. A PR sent from a fork to an original upstream repository still counts; the destination repository determines eligibility.
 
 ## Repositories
 
-| Repository | Primary language | Fork | Merged | Open | Closed, not merged |
-| --- | --- | --- | ---: | ---: | ---: |
-| [javascript-tutorial/th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info/pulls?q=is%3Apr+author%3AEpicHigh) | HTML | No | 83 | 0 | 4 |
-| [freeCodeCamp/guide](https://github.com/freeCodeCamp/guide/pulls?q=is%3Apr+author%3AEpicHigh) | Not reported | No | 2 | 0 | 3 |
-| [nodejs/undici](https://github.com/nodejs/undici/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | No | 2 | 0 | 0 |
-| [THE-EXISTING/dcen-landing-page](https://github.com/THE-EXISTING/dcen-landing-page/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | No | 2 | 0 | 0 |
-| [qax-os/excelize](https://github.com/qax-os/excelize/pulls?q=is%3Apr+author%3AEpicHigh) | Go | No | 1 | 1 | 0 |
-| [buildingwatsize/codecamp4](https://github.com/buildingwatsize/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | No | 1 | 0 | 0 |
-| [jirawat070/codecamp4](https://github.com/jirawat070/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 1 | 0 | 0 |
-| [koal4z/codecamp4](https://github.com/koal4z/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 1 | 0 | 0 |
-| [markkizz/codecamp4](https://github.com/markkizz/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 1 | 0 | 0 |
-| [Phawit-net/codecamp4](https://github.com/Phawit-net/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 1 | 0 | 0 |
-| [SongWanathong/codecamp4](https://github.com/SongWanathong/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 1 | 0 | 0 |
-| [atisya/codecamp4](https://github.com/atisya/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 0 | 0 | 1 |
-| [BlueMagnolia/codecamp4](https://github.com/BlueMagnolia/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | Not reported | Yes | 0 | 0 | 1 |
-| [panuwat33586/codecamp4](https://github.com/panuwat33586/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | Yes | 0 | 0 | 1 |
-| [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=is%3Apr+author%3AEpicHigh) | TypeScript | No | 0 | 1 | 0 |
-| [subenja/codecamp4](https://github.com/subenja/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | Not reported | Yes | 0 | 0 | 1 |
+| Repository | Primary language | Merged | Open | Closed, not merged |
+| --- | --- | ---: | ---: | ---: |
+| [javascript-tutorial/th.javascript.info](https://github.com/javascript-tutorial/th.javascript.info/pulls?q=is%3Apr+author%3AEpicHigh) | HTML | 83 | 0 | 4 |
+| [freeCodeCamp/guide](https://github.com/freeCodeCamp/guide/pulls?q=is%3Apr+author%3AEpicHigh) | Not reported | 2 | 0 | 3 |
+| [nodejs/undici](https://github.com/nodejs/undici/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 2 | 0 | 0 |
+| [THE-EXISTING/dcen-landing-page](https://github.com/THE-EXISTING/dcen-landing-page/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 2 | 0 | 0 |
+| [qax-os/excelize](https://github.com/qax-os/excelize/pulls?q=is%3Apr+author%3AEpicHigh) | Go | 1 | 1 | 0 |
+| [buildingwatsize/codecamp4](https://github.com/buildingwatsize/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 1 | 0 | 0 |
+| [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=is%3Apr+author%3AEpicHigh) | TypeScript | 0 | 1 | 0 |
 
-## Languages across merged PRs
+## Programming languages across merged PRs
+
+The donut uses **6 of 91 merged PRs**. The remaining 85 have a non-programming or unreported repository language and are excluded from its percentages.
 
 | Repository primary language | Merged PRs | Share |
 | --- | ---: | ---: |
-| HTML | 83 | 86.5% |
-| JavaScript | 10 | 10.4% |
-| Not reported | 2 | 2.1% |
-| Go | 1 | 1.0% |
+| JavaScript | 5 | 83.3% |
+| Go | 1 | 16.7% |
 
 ## Pull requests
 
@@ -137,24 +128,15 @@ All public pull requests authored by EpicHigh that GitHub search can discover ou
 | qax-os/excelize | [#2457](https://github.com/qax-os/excelize/pull/2457) | Open | — |
 | qax-os/excelize | [#2456](https://github.com/qax-os/excelize/pull/2456) | Merged | 2026-10-18 |
 | buildingwatsize/codecamp4 | [#1](https://github.com/buildingwatsize/codecamp4/pull/1) | Merged | 2019-10-30 |
-| jirawat070/codecamp4 | [#1](https://github.com/jirawat070/codecamp4/pull/1) | Merged | 2019-10-30 |
-| koal4z/codecamp4 | [#1](https://github.com/koal4z/codecamp4/pull/1) | Merged | 2019-10-30 |
-| markkizz/codecamp4 | [#1](https://github.com/markkizz/codecamp4/pull/1) | Merged | 2019-10-31 |
-| Phawit-net/codecamp4 | [#1](https://github.com/Phawit-net/codecamp4/pull/1) | Merged | 2019-11-03 |
-| SongWanathong/codecamp4 | [#1](https://github.com/SongWanathong/codecamp4/pull/1) | Merged | 2019-11-03 |
-| atisya/codecamp4 | [#1](https://github.com/atisya/codecamp4/pull/1) | Closed | — |
-| BlueMagnolia/codecamp4 | [#1](https://github.com/BlueMagnolia/codecamp4/pull/1) | Closed | — |
-| panuwat33586/codecamp4 | [#1](https://github.com/panuwat33586/codecamp4/pull/1) | Closed | — |
 | remix-run/react-router | [#15740](https://github.com/remix-run/react-router/pull/15740) | Open | — |
-| subenja/codecamp4 | [#1](https://github.com/subenja/codecamp4/pull/1) | Closed | — |
 
 ## Method and freshness
 
-The daily refresh searches GitHub's public REST API without authentication, follows every result page, and splits large searches by creation date. Each destination repository is checked for public visibility and ownership before inclusion. Deleted repositories and PRs no longer visible in public search cannot be recovered by this record.
+The daily refresh searches GitHub's public REST API without authentication, follows every result page, and splits large searches by creation date. Each destination repository is checked for public visibility, ownership, and non-fork status before inclusion. Deleted repositories and PRs no longer visible in public search cannot be recovered by this record.
 
 The orbit chart groups merged PRs by repository owner, including both people and organizations. Each repository belongs to one owner. Bubble area is proportional to merged PR count within each node type; owner and repository bubbles use different scales. Colors follow repository primary language, with an owner's dominant language used for its bubble. All owners and repositories with merged PRs are shown; additional orbit panels are added as needed.
 
-The language chart assigns one count per merged PR to the destination repository's current primary language. Missing languages remain in the denominator as Not reported. This includes documentation, translation, and maintenance PRs; it does not measure changed-file languages, lines of code, effort, impact, or proficiency. For example, contributions to the Thai JavaScript tutorial are classified as HTML because that is the repository's primary language.
+The donut assigns one count per merged PR to the destination repository's current primary language only when [GitHub Linguist](https://github.com/github-linguist/linguist/blob/d456527fe93355baa28c3c29d542c97282b61bc7/lib/linguist/languages.yml) classifies it as programming. The [pinned language catalog](data/programming-languages.json) defines this classification. Markup (including HTML and CSS), data, prose, unreported languages, and languages absent from that catalog are excluded from the donut and its denominator. The overall totals and orbit chart still include these contributions. This does not measure changed-file languages, lines of code, effort, impact, or proficiency.
 
 Only authored pull requests are counted. Direct commits, issues, reviews, and discussions are not part of these PR charts. Open PRs have not been merged; closed PRs without a merge are separate. The timeline uses merge dates and shows the five most recent merges.
 

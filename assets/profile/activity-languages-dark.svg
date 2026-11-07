@@ -1,37 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 545" role="img" aria-labelledby="title desc">
-<title id="title">Languages across merged PRs</title><desc id="desc">One count per merged PR, grouped by the destination repository&#x27;s current primary language. This does not identify changed-file languages or measure proficiency. Repositories without a language are included as Not reported.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Programming languages across merged PRs</title><desc id="desc">6 eligible merged PRs out of 91. Only repository primary languages classified as programming by GitHub Linguist are included. Percentages use eligible PRs; markup, data, prose, and unreported languages are excluded. This does not identify changed-file languages or measure proficiency.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
-<rect width="1000" height="545" rx="16" fill="#152128"/>
-<text x="36.00" y="42.00" font-size="27" font-weight="700" text-anchor="start" fill="#f3f0e7" class="">Languages across merged PRs</text>
-<text x="36.00" y="75.00" font-size="18" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Weighted by each repo&#x27;s primary language</text>
-<text x="36.00" y="104.00" font-size="18" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">96 merged PRs · 11 repositories</text>
+<rect width="1000" height="520" rx="16" fill="#152128"/>
+<text x="36.00" y="42.00" font-size="27" font-weight="700" text-anchor="start" fill="#f3f0e7" class="">Programming languages</text>
+<text x="36.00" y="75.00" font-size="18" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">By repo&#x27;s primary language · PR-weighted</text>
+<text x="36.00" y="104.00" font-size="18" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">6 of 91 merged PRs · 4 repositories</text>
 <circle cx="230.00" cy="278.00" r="123.00" fill="none" stroke="#3d4b51" stroke-width="1.5" stroke-dasharray="none"/>
-<circle cx="230" cy="278" r="123" fill="none" stroke="#c96842" stroke-width="32" stroke-dasharray="668.17749 104.65431" stroke-dashoffset="0.00000" transform="rotate(-90 230 278)"/>
-<circle cx="230" cy="278" r="123" fill="none" stroke="#378da2" stroke-width="32" stroke-dasharray="80.50331 692.32848" stroke-dashoffset="-668.17749" transform="rotate(-90 230 278)"/>
-<circle cx="230" cy="278" r="123" fill="none" stroke="#9a78c7" stroke-width="32" stroke-dasharray="16.10066 756.73113" stroke-dashoffset="-748.68080" transform="rotate(-90 230 278)"/>
-<circle cx="230" cy="278" r="123" fill="none" stroke="#8c9b4f" stroke-width="32" stroke-dasharray="8.05033 764.78146" stroke-dashoffset="-764.78146" transform="rotate(-90 230 278)"/>
-<text x="230.00" y="283.00" font-size="42" font-weight="700" text-anchor="middle" fill="#f3f0e7" class="">86%</text>
-<text x="230.00" y="317.00" font-size="21" font-weight="400" text-anchor="middle" fill="#b0bdc2" class="">HTML</text>
-<circle cx="505.00" cy="143.00" r="5.00" fill="#c96842" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
-<text x="520.00" y="150.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">HTML</text>
-<text x="964.00" y="150.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">83 · 86.5%</text>
+<circle cx="230" cy="278" r="123" fill="none" stroke="#378da2" stroke-width="32" stroke-dasharray="644.02649 128.80530" stroke-dashoffset="0.00000" transform="rotate(-90 230 278)"/>
+<circle cx="230" cy="278" r="123" fill="none" stroke="#8c9b4f" stroke-width="32" stroke-dasharray="128.80530 644.02649" stroke-dashoffset="-644.02649" transform="rotate(-90 230 278)"/>
+<text x="230.00" y="283.00" font-size="42" font-weight="700" text-anchor="middle" fill="#f3f0e7" class="">83%</text>
+<text x="230.00" y="317.00" font-size="21" font-weight="400" text-anchor="middle" fill="#b0bdc2" class="">JavaScript</text>
+<circle cx="505.00" cy="143.00" r="5.00" fill="#378da2" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
+<text x="520.00" y="150.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">JavaScript</text>
+<text x="964.00" y="150.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">5 · 83.3%</text>
 <rect x="500.00" y="165.00" width="464.00" height="8" fill="#3d4b51" stroke="none"/>
-<rect x="500.00" y="165.00" width="401.17" height="8" fill="#c96842" stroke="none"/>
-<circle cx="505.00" cy="213.00" r="5.00" fill="#378da2" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
-<text x="520.00" y="220.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">JavaScript</text>
-<text x="964.00" y="220.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">10 · 10.4%</text>
+<rect x="500.00" y="165.00" width="386.67" height="8" fill="#378da2" stroke="none"/>
+<circle cx="505.00" cy="213.00" r="5.00" fill="#8c9b4f" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
+<text x="520.00" y="220.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">Go</text>
+<text x="964.00" y="220.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">1 · 16.7%</text>
 <rect x="500.00" y="235.00" width="464.00" height="8" fill="#3d4b51" stroke="none"/>
-<rect x="500.00" y="235.00" width="48.33" height="8" fill="#378da2" stroke="none"/>
-<circle cx="505.00" cy="283.00" r="5.00" fill="#9a78c7" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
-<text x="520.00" y="290.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">Not reported</text>
-<text x="964.00" y="290.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">2 · 2.1%</text>
-<rect x="500.00" y="305.00" width="464.00" height="8" fill="#3d4b51" stroke="none"/>
-<rect x="500.00" y="305.00" width="9.67" height="8" fill="#9a78c7" stroke="none"/>
-<circle cx="505.00" cy="353.00" r="5.00" fill="#8c9b4f" stroke="none" stroke-width="1.5" stroke-dasharray="none"/>
-<text x="520.00" y="360.00" font-size="21" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">Go</text>
-<text x="964.00" y="360.00" font-size="18" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">1 · 1.0%</text>
-<rect x="500.00" y="375.00" width="464.00" height="8" fill="#3d4b51" stroke="none"/>
-<rect x="500.00" y="375.00" width="4.83" height="8" fill="#8c9b4f" stroke="none"/>
-<text x="36.00" y="475.00" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Includes documentation and translation PRs. Repository language does not describe the files changed</text>
-<text x="36.00" y="495.00" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">in a PR or language proficiency.</text>
+<rect x="500.00" y="235.00" width="77.33" height="8" fill="#8c9b4f" stroke="none"/>
+<text x="36.00" y="450.00" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Only programming languages classified by GitHub Linguist. Based on repository language, not changed</text>
+<text x="36.00" y="470.00" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">files or proficiency.</text>
 </svg>
