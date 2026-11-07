@@ -5,7 +5,7 @@
   <img src="assets/profile/hero-light.svg" alt="Prasit Tongpradit — software engineer. Complex workflows. Clear software." width="100%">
 </picture>
 
-I'm **Prasit Tongpradit**, a software engineer at **PwC Thailand** in Bangkok. I build tax technology, practical automation, and developer tools.
+I'm **Prasit Tongpradit**, a software engineer at **PwC Thailand** in Bangkok. I work on **Tax Platform**, helping turn complex tax workflows into practical software for tax teams. I also build developer tools and contribute to open source.
 
 **For full-time roles, freelance work, or consulting: [let's talk on LinkedIn ↗](https://www.linkedin.com/in/prasit-tongpradit/)**
 
