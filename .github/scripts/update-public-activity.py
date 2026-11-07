@@ -8,6 +8,8 @@ import json
 import math
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -54,8 +56,18 @@ def get_json(endpoint, params=None):
             "User-Agent": "epichigh-public-profile",
         },
     )
-    with urllib.request.urlopen(request, timeout=20) as response:
-        return json.load(response)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=20) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as error:
+            if error.code not in (500, 502, 503, 504) or attempt == 2:
+                raise
+            error.close()
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise
+        time.sleep(2**attempt)
 
 
 def instant(value):
@@ -65,9 +77,11 @@ def instant(value):
     return parsed
 
 
-def search_prs(username, fetch, start=date(1970, 1, 1), end=None):
-    end = end or datetime.now(timezone.utc).date()
-    query = f"author:{username} is:pr is:public created:{start}..{end}"
+def search_prs(username, fetch, start=None, end=None):
+    query = f"author:{username} is:pr is:public"
+    if start is not None:
+        end = end or datetime.now(timezone.utc).date()
+        query += f" created:{start}..{end}"
     records = []
     expected = None
     page = 1
@@ -91,6 +105,8 @@ def search_prs(username, fetch, start=date(1970, 1, 1), end=None):
             raise ValueError("Incomplete or invalid public PR search")
         if count > 1000:
             # Search returns at most 1,000 matches; split dates instead of dropping records.
+            start = start or date(1970, 1, 1)
+            end = end or datetime.now(timezone.utc).date()
             if start == end:
                 # shortcut: over 1,000 PRs in one day needs timestamp-based partitions.
                 raise ValueError(
@@ -706,6 +722,37 @@ def render_record(snapshot):
 
 
 def self_test():
+    from io import StringIO
+    from unittest.mock import patch
+
+    def http_error(code):
+        return urllib.error.HTTPError(
+            "https://api.github.com/search/issues", code, "test", {}, None
+        )
+
+    with (
+        patch(
+            "urllib.request.urlopen",
+            side_effect=[http_error(504), StringIO('{"ok": true}')],
+        ) as request,
+        patch("time.sleep") as sleep,
+    ):
+        assert get_json("/search/issues") == {"ok": True}
+        assert request.call_count == 2 and sleep.call_count == 1
+        assert not request.call_args.args[0].has_header("Authorization")
+    for code, attempts in ((504, 3), (403, 1), (429, 1)):
+        with (
+            patch("urllib.request.urlopen", side_effect=http_error(code)) as request,
+            patch("time.sleep"),
+        ):
+            try:
+                get_json("/search/issues")
+            except urllib.error.HTTPError:
+                pass
+            else:
+                raise AssertionError("HTTP failure was hidden")
+            assert request.call_count == attempts
+
     def item(
         number,
         repository="upstream/library",
