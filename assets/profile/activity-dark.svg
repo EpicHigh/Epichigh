@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 654" role="img" aria-labelledby="title desc">
+<title id="title">Public open-source contributions</title>
+<desc id="desc">3 merged and 2 open pull requests in selected public upstream libraries. Status by project and the five most recent merges. Counts describe activity, not skill level.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<rect width="1000" height="654" rx="16" fill="#152128"/>
+<text x="36" y="42" font-size="28" font-weight="700" text-anchor="start" fill="#f3f0e7" class="">Open-source work</text>
+<text x="36" y="74" font-size="18" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Selected public upstream libraries</text>
+<text x="964" y="42" font-size="14" font-weight="400" text-anchor="end" fill="#b0bdc2" class="mono">AS OF 07 NOV 2026</text>
+<text x="36.0" y="141" font-size="40" font-weight="700" text-anchor="start" fill="#ff986f" class="">3</text>
+<text x="36.0" y="172" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">MERGED PRS</text>
+<path d="M333.3333333333333 106L333.3333333333333 178" stroke="#3d4b51"/>
+<text x="345.3333333333333" y="141" font-size="40" font-weight="700" text-anchor="start" fill="#f3f0e7" class="">2</text>
+<text x="345.3333333333333" y="172" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">OPEN PRS</text>
+<path d="M642.6666666666666 106L642.6666666666666 178" stroke="#3d4b51"/>
+<text x="654.6666666666666" y="141" font-size="40" font-weight="700" text-anchor="start" fill="#f3f0e7" class="">3</text>
+<text x="654.6666666666666" y="172" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">PROJECTS</text>
+<path d="M36 198H964" stroke="#3d4b51"/>
+<text x="36" y="246" font-size="24" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">Contribution status</text>
+<rect x="36.00" y="260" width="11.00" height="11" fill="#ff986f" stroke="#ff986f"/>
+<text x="54" y="271" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Merged</text>
+<rect x="146.00" y="260" width="11.00" height="11" fill="#1b2d36" stroke="#b0bdc2"/>
+<text x="164" y="271" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Open</text>
+<rect x="236.00" y="260" width="11.00" height="11" fill="#b0bdc2" stroke="#b0bdc2"/>
+<text x="254" y="271" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">Closed, not merged</text>
+<text x="36" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">Node.js / Undici</text>
+<path d="M36 336H474" stroke="#3d4b51"/>
+<rect x="36.00" y="328" width="438.00" height="16" fill="#ff986f" stroke="#ff986f"/>
+<text x="36" y="370" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">2 merged · 0 open</text>
+<text x="36" y="408" font-size="20" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">Excelize</text>
+<path d="M36 432H474" stroke="#3d4b51"/>
+<rect x="36.00" y="424" width="219.00" height="16" fill="#ff986f" stroke="#ff986f"/>
+<rect x="255.00" y="424" width="219.00" height="16" fill="#1b2d36" stroke="#b0bdc2"/>
+<text x="36" y="466" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">1 merged · 1 open</text>
+<text x="36" y="504" font-size="20" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">React Router</text>
+<path d="M36 528H474" stroke="#3d4b51"/>
+<rect x="36.00" y="520" width="219.00" height="16" fill="#1b2d36" stroke="#b0bdc2"/>
+<text x="36" y="562" font-size="16" font-weight="400" text-anchor="start" fill="#b0bdc2" class="">0 merged · 1 open</text>
+<text x="550" y="246" font-size="24" font-weight="650" text-anchor="start" fill="#f3f0e7" class="">Recent merges</text>
+<path d="M557 319L557 471" stroke="#3d4b51"/>
+<circle cx="557" cy="319" r="5" fill="#ff986f"/>
+<text x="577" y="316" font-size="15" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">06 Nov 2026</text>
+<text x="577" y="346" font-size="19" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">Node.js / Undici  #6170</text>
+<circle cx="557" cy="395" r="5" fill="#ff986f"/>
+<text x="577" y="392" font-size="15" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">29 Oct 2026</text>
+<text x="577" y="422" font-size="19" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">Node.js / Undici  #6090</text>
+<circle cx="557" cy="471" r="5" fill="#ff986f"/>
+<text x="577" y="468" font-size="15" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">18 Oct 2026</text>
+<text x="577" y="498" font-size="19" font-weight="600" text-anchor="start" fill="#f3f0e7" class="">Excelize  #2456</text>
+<text x="36" y="630" font-size="15" font-weight="400" text-anchor="start" fill="#b0bdc2" class="mono">PUBLIC DATA ONLY · DATES IN UTC+7</text>
+</svg>
