@@ -1,8 +1,0 @@
-{
-  "username": "EpicHigh",
-  "projects": [
-    { "repository": "nodejs/undici", "label": "Node.js / Undici" },
-    { "repository": "qax-os/excelize", "label": "Excelize" },
-    { "repository": "remix-run/react-router", "label": "React Router" }
-  ]
-}

@@ -8,7 +8,7 @@ on:
     paths:
       - '.github/scripts/update-public-activity.py'
       - '.github/workflows/public-activity.yml'
-      - 'data/public-projects.json'
+      - 'data/public-profile.json'
 
 concurrency:
   group: public-profile-activity

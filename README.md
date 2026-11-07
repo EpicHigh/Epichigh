@@ -31,16 +31,36 @@ Prevented panics when spreadsheet formulas access invalid ranges. Five condition
 
 ## Open-source activity
 
-Public pull requests I authored in **Undici, Excelize, and React Router**. Merged and open contributions are shown separately; these counts cover only the selected upstream libraries.
+Public pull requests I authored across **all repositories owned by other people or organizations**, including public forks and archived projects. Merged, open, and closed PRs are counted separately.
 
 <a href="PUBLIC_ACTIVITY.md">
   <picture>
     <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile/activity-mobile-dark.svg">
     <source media="(max-width: 640px)" srcset="assets/profile/activity-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/activity-dark.svg">
-    <img src="assets/profile/activity-light.svg" alt="Public contribution charts: pull request status by upstream project and a timeline of recent merges. Full counts and source links are in the public contribution record." width="100%">
+    <img src="assets/profile/activity-light.svg" alt="All public pull requests outside my account: merged, open, and closed totals, repository count, and recent merges. Full counts and links are in the public contribution record." width="100%">
   </picture>
 </a>
+
+<a href="PUBLIC_ACTIVITY.md">
+  <picture>
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile/activity-network-mobile-dark.svg">
+    <source media="(max-width: 640px)" srcset="assets/profile/activity-network-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/activity-network-dark.svg">
+    <img src="assets/profile/activity-network-light.svg" alt="Where the work lands: merged pull requests grouped into repository owners and their repositories. Bubble size represents PR volume; colors represent repository primary language." width="100%">
+  </picture>
+</a>
+
+<a href="PUBLIC_ACTIVITY.md">
+  <picture>
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile/activity-languages-mobile-dark.svg">
+    <source media="(max-width: 640px)" srcset="assets/profile/activity-languages-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/activity-languages-dark.svg">
+    <img src="assets/profile/activity-languages-light.svg" alt="Languages across merged PRs: a donut chart weighted by each repository's primary language, including repositories without a reported language." width="100%">
+  </picture>
+</a>
+
+The network and language charts use **merged PRs**. Language shares follow each repository's primary language, including documentation and translation work; they do not measure language proficiency.
 
 [View counts, dates, and every pull request →](PUBLIC_ACTIVITY.md) · Updated daily from public data.
 
