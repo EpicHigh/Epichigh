@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 328" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Prasit Tongpradit — software engineer</title>
+  <desc id="desc">Complex workflows. Clear software. Product, systems, and people connected by one path. Bangkok, Thailand. TypeScript, Go, and Python.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+    .signal { stroke-dasharray: 8 700; animation: travel 3s ease-out 1 both; }
+    @keyframes travel { from { stroke-dashoffset: 100; opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } to { stroke-dashoffset: -480; opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; display: none; } }
+  </style>
+  <rect width="1000" height="328" rx="16" fill="#f5f2eb"/>
+  <path d="M40 64H960M40 286H960" stroke="#d8d9d3"/>
+  <text x="40" y="41" class="mono" font-size="14" letter-spacing="2" fill="#59666c">EPICHIGH / SOFTWARE ENGINEER</text>
+  <circle cx="948" cy="36" r="7" stroke="#b74725" stroke-width="2"/>
+  <circle cx="948" cy="36" r="2" fill="#b74725"/>
+  <text x="37" y="127" font-size="55" font-weight="750" letter-spacing="-2" fill="#202b32">Prasit Tongpradit</text>
+  <text x="40" y="198" font-size="32" font-weight="550" letter-spacing="-0.8" fill="#202b32">Complex workflows.</text>
+  <text x="40" y="239" font-size="32" font-weight="550" letter-spacing="-0.8" fill="#b74725">Clear software.</text>
+  <g stroke="#d8d9d3" stroke-width="1">
+    <path d="M616 86V264M656 86V264M696 86V264M736 86V264M776 86V264M816 86V264M856 86V264M896 86V264M936 86V264"/>
+    <path d="M600 104H960M600 144H960M600 184H960M600 224H960M600 264H960"/>
+  </g>
+  <g stroke="#59666c" stroke-width="2">
+    <path d="M638 112H704Q728 112 744 138L776 172Q792 184 816 184H934"/>
+    <path d="M638 184H934"/>
+    <path d="M638 256H704Q728 256 744 230L776 196Q792 184 816 184"/>
+  </g>
+  <path class="signal" d="M638 112H704Q728 112 744 138L776 172Q792 184 816 184H934" stroke="#b74725" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#fffcf5" stroke="#59666c" stroke-width="2">
+    <circle cx="638" cy="112" r="7"/>
+    <circle cx="638" cy="184" r="7"/>
+    <circle cx="638" cy="256" r="7"/>
+  </g>
+  <g fill="#59666c" font-size="11" class="mono" letter-spacing="1.2">
+    <text x="654" y="103">PRODUCT</text>
+    <text x="654" y="175">SYSTEMS</text>
+    <text x="654" y="247">PEOPLE</text>
+  </g>
+  <circle cx="846" cy="184" r="28" fill="#f5f2eb" stroke="#b74725" stroke-width="2"/>
+  <path d="M834 184L842 192L858 175" stroke="#b74725" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="938" cy="184" r="6" fill="#b74725"/>
+  <text x="40" y="311" class="mono" font-size="13" letter-spacing="1" fill="#59666c">TYPESCRIPT · GO · PYTHON</text>
+  <text x="960" y="311" class="mono" text-anchor="end" font-size="13" letter-spacing="1" fill="#59666c">BANGKOK, THAILAND / UTC+7</text>
+</svg>

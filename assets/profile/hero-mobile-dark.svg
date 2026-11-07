@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Prasit Tongpradit — software engineer</title>
+  <desc id="desc">Complex workflows. Clear software. Product, systems, and people connected by one path. Bangkok, Thailand. TypeScript, Go, and Python.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+    .signal { stroke-dasharray: 8 700; animation: travel 3s ease-out 1 both; }
+    @keyframes travel { from { stroke-dashoffset: 100; opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } to { stroke-dashoffset: -480; opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; display: none; } }
+  </style>
+  <rect width="480" height="380" rx="16" fill="#152128"/>
+  <path d="M28 53H452M28 339H452" stroke="#3d4b51"/>
+  <text x="28" y="32" class="mono" font-size="13" letter-spacing="1.2" fill="#b0bdc2">EPICHIGH / SOFTWARE ENGINEER</text>
+  <circle cx="442" cy="28" r="6" stroke="#ff986f" stroke-width="2"/>
+  <text x="26" y="111" font-size="50" font-weight="750" letter-spacing="-1.8" fill="#f3f0e7">Prasit</text>
+  <text x="26" y="165" font-size="50" font-weight="750" letter-spacing="-1.8" fill="#f3f0e7">Tongpradit</text>
+  <text x="28" y="211" font-size="26" font-weight="550" letter-spacing="-0.5" fill="#f3f0e7">Complex workflows.</text>
+  <text x="28" y="245" font-size="26" font-weight="550" letter-spacing="-0.5" fill="#ff986f">Clear software.</text>
+  <g stroke="#b0bdc2" stroke-width="2">
+    <path d="M38 277H148Q171 277 188 294L190 296H436"/>
+    <path d="M38 296H436"/>
+    <path d="M38 315H148Q171 315 188 298L190 296"/>
+  </g>
+  <path class="signal" d="M38 277H148Q171 277 188 294L190 296H436" stroke="#ff986f" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#1b2d36" stroke="#b0bdc2" stroke-width="2">
+    <circle cx="38" cy="277" r="5"/>
+    <circle cx="38" cy="296" r="5"/>
+    <circle cx="38" cy="315" r="5"/>
+  </g>
+  <circle cx="354" cy="296" r="22" fill="#152128" stroke="#ff986f" stroke-width="2"/>
+  <path d="M344 296L351 303L365 288" stroke="#ff986f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="440" cy="296" r="5" fill="#ff986f"/>
+  <text x="28" y="363" class="mono" font-size="13" letter-spacing="0.2" fill="#b0bdc2">BANGKOK · TYPESCRIPT / GO / PYTHON</text>
+</svg>
