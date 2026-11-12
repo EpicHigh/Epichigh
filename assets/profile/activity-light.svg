@@ -4,7 +4,7 @@
 <rect width="1000" height="608" rx="16" fill="#f5f2eb"/>
 <text x="36.00" y="42.00" font-size="27" font-weight="700" text-anchor="start" fill="#202b32" class="">Public contributions</text>
 <text x="36.00" y="73.00" font-size="18" font-weight="400" text-anchor="start" fill="#59666c" class="">Public PRs · Fork repositories excluded</text>
-<text x="964.00" y="42.00" font-size="13" font-weight="400" text-anchor="end" fill="#59666c" class="mono">AS OF 11 NOV 2026</text>
+<text x="964.00" y="42.00" font-size="13" font-weight="400" text-anchor="end" fill="#59666c" class="mono">AS OF 12 NOV 2026</text>
 <text x="36.00" y="164.00" font-size="40" font-weight="700" text-anchor="start" fill="#b74725" class="">91</text>
 <text x="36.00" y="195.00" font-size="16" font-weight="400" text-anchor="start" fill="#59666c" class="mono">MERGED PRS</text>
 <text x="186.00" y="164.00" font-size="40" font-weight="700" text-anchor="start" fill="#202b32" class="">3</text>
