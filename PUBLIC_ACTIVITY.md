@@ -1,6 +1,6 @@
 # Public contribution record
 
-As of **2026-11-21 (Bangkok, UTC+7)**. **91 merged · 3 open · 7 closed without merging** across **7 repositories**.
+As of **2026-11-22 (Bangkok, UTC+7)**. **91 merged · 4 open · 7 closed without merging** across **8 repositories**.
 
 All public pull requests authored by EpicHigh that GitHub search can discover in non-fork repositories outside the EpicHigh account are included. There is no project allowlist. Archived projects, documentation, translations, and older work are included. Fork repositories, personal repositories, and private activity are excluded. A PR sent from a fork to an original upstream repository still counts; the destination repository determines eligibility.
 
@@ -14,6 +14,7 @@ All public pull requests authored by EpicHigh that GitHub search can discover in
 | [THE-EXISTING/dcen-landing-page](https://github.com/THE-EXISTING/dcen-landing-page/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 2 | 0 | 0 |
 | [qax-os/excelize](https://github.com/qax-os/excelize/pulls?q=is%3Apr+author%3AEpicHigh) | Go | 1 | 2 | 0 |
 | [buildingwatsize/codecamp4](https://github.com/buildingwatsize/codecamp4/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 1 | 0 | 0 |
+| [NaturalIntelligence/fast-xml-validator](https://github.com/NaturalIntelligence/fast-xml-validator/pulls?q=is%3Apr+author%3AEpicHigh) | JavaScript | 0 | 1 | 0 |
 | [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=is%3Apr+author%3AEpicHigh) | TypeScript | 0 | 1 | 0 |
 
 ## Programming languages across merged PRs
@@ -129,6 +130,7 @@ The donut uses **6 of 91 merged PRs**. The remaining 85 have a non-programming o
 | qax-os/excelize | [#2457](https://github.com/qax-os/excelize/pull/2457) | Open | — |
 | qax-os/excelize | [#2456](https://github.com/qax-os/excelize/pull/2456) | Merged | 2026-10-18 |
 | buildingwatsize/codecamp4 | [#1](https://github.com/buildingwatsize/codecamp4/pull/1) | Merged | 2019-10-30 |
+| NaturalIntelligence/fast-xml-validator | [#24](https://github.com/NaturalIntelligence/fast-xml-validator/pull/24) | Open | — |
 | remix-run/react-router | [#15740](https://github.com/remix-run/react-router/pull/15740) | Open | — |
 
 ## Method and freshness
